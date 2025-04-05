@@ -2,7 +2,7 @@
 import { useState, useEffect } from 'react';
 import { getNewsletterStatus, subscribeNewsletter, unsubscribeNewsletter, updateNewsletterEmail } from '../lib/newsletterService';
 
-const Newsletter = () => {
+export function Newsletter() {
   const [email, setEmail] = useState('');
   const [isSubscribed, setIsSubscribed] = useState(false);
   const [subscribedEmail, setSubscribedEmail] = useState('');
@@ -165,5 +165,3 @@ const Newsletter = () => {
     </div>
   );
 };
-
-export default Newsletter;

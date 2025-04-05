@@ -7,6 +7,7 @@ import { MainPage } from "./pages/MainPage";
 import { Problems } from "./pages/Problems";
 import { Contests } from "./pages/Contests";
 import { Login } from "./pages/Login";
+import { Newsletter } from "./pages/Newsletter";
 
 import { Code2, Moon, Sun } from "lucide-react";
 import { supabase } from "./lib/supabase";
@@ -101,17 +102,19 @@ function AppContent() {
             </div>
 
             <div className="flex space-x-4 items-center">
-              {["Home", "Problems", "Contests", "Newsletter", "Profile"].map((tab) => (
-                <Button
-                  key={tab}
-                  onClick={() => setActiveTab(tab)}
-                  className={`!text-gray-700 dark:!text-gray-300 ${
-                    activeTab === tab ? "dark:!bg-gray-700 !bg-gray-200" : ""
-                  }`}
-                >
-                  {tab}
-                </Button>
-              ))}
+              {["Home", "Problems", "Contests", "Newsletter", "Profile"].map(
+                (tab) => (
+                  <Button
+                    key={tab}
+                    onClick={() => setActiveTab(tab)}
+                    className={`!text-gray-700 dark:!text-gray-300 ${
+                      activeTab === tab ? "dark:!bg-gray-700 !bg-gray-200" : ""
+                    }`}
+                  >
+                    {tab}
+                  </Button>
+                )
+              )}
               <Button
                 onClick={handleLogout}
                 className="!ml-4 !bg-red-500 !text-white hover:!bg-red-600"
@@ -128,7 +131,7 @@ function AppContent() {
         {activeTab === "Problems" && <Problems />}
         {activeTab === "Contests" && <Contests />}
         {activeTab === "Profile" && <ProfilePage />}
-        {activeTab === "NewsLetter" && <NewsLetter />}
+        {activeTab === "Newsletter" && <Newsletter />}
       </main>
     </div>
   );

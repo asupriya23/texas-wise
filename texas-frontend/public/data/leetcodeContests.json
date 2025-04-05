@@ -1,0 +1,368 @@
+[
+  {
+    "date": "2021-01-01",
+    "contestId": "LC-20210101",
+    "rank": 16,
+    "ratingChange": 78
+  },
+  {
+    "date": "2021-01-04",
+    "contestId": "LC-20210104",
+    "rank": 623,
+    "ratingChange": 24
+  },
+  {
+    "date": "2021-02-06",
+    "contestId": "LC-20210206",
+    "rank": 449,
+    "ratingChange": 75
+  },
+  {
+    "date": "2021-02-24",
+    "contestId": "LC-20210224",
+    "rank": 256,
+    "ratingChange": 94
+  },
+  {
+    "date": "2021-04-15",
+    "contestId": "LC-20210415",
+    "rank": 77,
+    "ratingChange": 87
+  },
+  {
+    "date": "2021-04-29",
+    "contestId": "LC-20210429",
+    "rank": 774,
+    "ratingChange": 45
+  },
+  {
+    "date": "2021-05-17",
+    "contestId": "LC-20210517",
+    "rank": 478,
+    "ratingChange": 77
+  },
+  {
+    "date": "2021-05-24",
+    "contestId": "LC-20210524",
+    "rank": 668,
+    "ratingChange": 21
+  },
+  {
+    "date": "2021-06-03",
+    "contestId": "LC-20210603",
+    "rank": 430,
+    "ratingChange": 79
+  },
+  {
+    "date": "2021-06-12",
+    "contestId": "LC-20210612",
+    "rank": 272,
+    "ratingChange": 80
+  },
+  {
+    "date": "2021-08-26",
+    "contestId": "LC-20210826",
+    "rank": 809,
+    "ratingChange": 39
+  },
+  {
+    "date": "2021-09-15",
+    "contestId": "LC-20210915",
+    "rank": 857,
+    "ratingChange": 51
+  },
+  {
+    "date": "2021-10-16",
+    "contestId": "LC-20211016",
+    "rank": 1201,
+    "ratingChange": 1
+  },
+  {
+    "date": "2021-11-05",
+    "contestId": "LC-20211105",
+    "rank": 608,
+    "ratingChange": 53
+  },
+  {
+    "date": "2021-11-10",
+    "contestId": "LC-20211110",
+    "rank": 632,
+    "ratingChange": 46
+  },
+  {
+    "date": "2021-11-24",
+    "contestId": "LC-20211124",
+    "rank": 66,
+    "ratingChange": 82
+  },
+  {
+    "date": "2021-12-10",
+    "contestId": "LC-20211210",
+    "rank": 15,
+    "ratingChange": 61
+  },
+  {
+    "date": "2022-01-01",
+    "contestId": "LC-20220101",
+    "rank": 573,
+    "ratingChange": 43
+  },
+  {
+    "date": "2022-01-04",
+    "contestId": "LC-20220104",
+    "rank": 363,
+    "ratingChange": 61
+  },
+  {
+    "date": "2022-01-06",
+    "contestId": "LC-20220106",
+    "rank": 99,
+    "ratingChange": 87
+  },
+  {
+    "date": "2022-02-09",
+    "contestId": "LC-20220209",
+    "rank": 241,
+    "ratingChange": 93
+  },
+  {
+    "date": "2022-02-10",
+    "contestId": "LC-20220210",
+    "rank": 93,
+    "ratingChange": 78
+  },
+  {
+    "date": "2022-05-08",
+    "contestId": "LC-20220508",
+    "rank": 651,
+    "ratingChange": 55
+  },
+  {
+    "date": "2022-05-30",
+    "contestId": "LC-20220530",
+    "rank": 1134,
+    "ratingChange": 13
+  },
+  {
+    "date": "2022-07-02",
+    "contestId": "LC-20220702",
+    "rank": 640,
+    "ratingChange": 59
+  },
+  {
+    "date": "2022-07-18",
+    "contestId": "LC-20220718",
+    "rank": 1155,
+    "ratingChange": -5
+  },
+  {
+    "date": "2022-07-21",
+    "contestId": "LC-20220721",
+    "rank": 6,
+    "ratingChange": 77
+  },
+  {
+    "date": "2022-07-23",
+    "contestId": "LC-20220723",
+    "rank": 916,
+    "ratingChange": 39
+  },
+  {
+    "date": "2022-07-28",
+    "contestId": "LC-20220728",
+    "rank": 1079,
+    "ratingChange": -10
+  },
+  {
+    "date": "2022-08-03",
+    "contestId": "LC-20220803",
+    "rank": 71,
+    "ratingChange": 64
+  },
+  {
+    "date": "2022-09-16",
+    "contestId": "LC-20220916",
+    "rank": 7,
+    "ratingChange": 98
+  },
+  {
+    "date": "2022-10-17",
+    "contestId": "LC-20221017",
+    "rank": 52,
+    "ratingChange": 76
+  },
+  {
+    "date": "2022-10-28",
+    "contestId": "LC-20221028",
+    "rank": 520,
+    "ratingChange": 55
+  },
+  {
+    "date": "2022-11-28",
+    "contestId": "LC-20221128",
+    "rank": 1412,
+    "ratingChange": -8
+  },
+  {
+    "date": "2022-12-22",
+    "contestId": "LC-20221222",
+    "rank": 33,
+    "ratingChange": 68
+  },
+  {
+    "date": "2023-01-18",
+    "contestId": "LC-20230118",
+    "rank": 208,
+    "ratingChange": 95
+  },
+  {
+    "date": "2023-02-12",
+    "contestId": "LC-20230212",
+    "rank": 34,
+    "ratingChange": 77
+  },
+  {
+    "date": "2023-03-01",
+    "contestId": "LC-20230301",
+    "rank": 654,
+    "ratingChange": 58
+  },
+  {
+    "date": "2023-04-27",
+    "contestId": "LC-20230427",
+    "rank": 209,
+    "ratingChange": 98
+  },
+  {
+    "date": "2023-04-30",
+    "contestId": "LC-20230430",
+    "rank": 95,
+    "ratingChange": 66
+  },
+  {
+    "date": "2023-06-04",
+    "contestId": "LC-20230604",
+    "rank": 857,
+    "ratingChange": 20
+  },
+  {
+    "date": "2023-07-23",
+    "contestId": "LC-20230723",
+    "rank": 100,
+    "ratingChange": 71
+  },
+  {
+    "date": "2023-08-23",
+    "contestId": "LC-20230823",
+    "rank": 77,
+    "ratingChange": 98
+  },
+  {
+    "date": "2023-09-04",
+    "contestId": "LC-20230904",
+    "rank": 577,
+    "ratingChange": 43
+  },
+  {
+    "date": "2023-09-18",
+    "contestId": "LC-20230918",
+    "rank": 307,
+    "ratingChange": 62
+  },
+  {
+    "date": "2023-10-23",
+    "contestId": "LC-20231023",
+    "rank": 1026,
+    "ratingChange": 12
+  },
+  {
+    "date": "2023-10-26",
+    "contestId": "LC-20231026",
+    "rank": 63,
+    "ratingChange": 74
+  },
+  {
+    "date": "2023-11-11",
+    "contestId": "LC-20231111",
+    "rank": 1399,
+    "ratingChange": -5
+  },
+  {
+    "date": "2023-12-11",
+    "contestId": "LC-20231211",
+    "rank": 367,
+    "ratingChange": 76
+  },
+  {
+    "date": "2024-03-13",
+    "contestId": "LC-20240313",
+    "rank": 223,
+    "ratingChange": 78
+  },
+  {
+    "date": "2024-04-10",
+    "contestId": "LC-20240410",
+    "rank": 20,
+    "ratingChange": 84
+  },
+  {
+    "date": "2024-08-03",
+    "contestId": "LC-20240803",
+    "rank": 603,
+    "ratingChange": 39
+  },
+  {
+    "date": "2024-08-22",
+    "contestId": "LC-20240822",
+    "rank": 1005,
+    "ratingChange": 12
+  },
+  {
+    "date": "2024-09-27",
+    "contestId": "LC-20240927",
+    "rank": 907,
+    "ratingChange": 24
+  },
+  {
+    "date": "2024-09-30",
+    "contestId": "LC-20240930",
+    "rank": 468,
+    "ratingChange": 82
+  },
+  {
+    "date": "2024-10-14",
+    "contestId": "LC-20241014",
+    "rank": 169,
+    "ratingChange": 94
+  },
+  {
+    "date": "2024-10-15",
+    "contestId": "LC-20241015",
+    "rank": 1477,
+    "ratingChange": 18
+  },
+  {
+    "date": "2024-11-30",
+    "contestId": "LC-20241130",
+    "rank": 433,
+    "ratingChange": 66
+  },
+  {
+    "date": "2025-01-14",
+    "contestId": "LC-20250114",
+    "rank": 282,
+    "ratingChange": 81
+  },
+  {
+    "date": "2025-02-15",
+    "contestId": "LC-20250215",
+    "rank": 753,
+    "ratingChange": 43
+  },
+  {
+    "date": "2025-03-02",
+    "contestId": "LC-20250302",
+    "rank": 47,
+    "ratingChange": 94
+  }
+]

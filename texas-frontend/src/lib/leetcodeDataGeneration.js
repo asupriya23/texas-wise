@@ -3,10 +3,12 @@ import { dirname } from "path";
 import { fileURLToPath } from "url";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const filePath = `${__dirname}/../../public/data/leetcodeData.json`;
+const dataDir = `${__dirname}/../../public/data`;
+const problemDataPath = `${dataDir}/leetcodeData.json`;
+const contestDataPath = `${dataDir}/leetcodeContests.json`;
 
-if (!existsSync(dirname(filePath))) {
-  mkdirSync(dirname(filePath), { recursive: true });
+if (!existsSync(dataDir)) {
+  mkdirSync(dataDir, { recursive: true });
 }
 
 const leetcodeProblems = {
@@ -113,16 +115,49 @@ const generateProblemCode = () => {
   };
 };
 
-// Weighted probability for fewer problems
+const generateRank = () => {
+  const rankBuckets = [
+    Math.floor(Math.random() * 100) + 1,
+    Math.floor(Math.random() * 400) + 100,
+    Math.floor(Math.random() * 1000) + 500,
+  ];
+  return rankBuckets[Math.floor(Math.random() * rankBuckets.length)];
+};
+
+const calculateRatingChange = (rank) => {
+  if (rank <= 500) return Math.floor(60 + Math.random() * 40);
+  if (rank <= 1000) return Math.floor(20 + Math.random() * 40);
+  if (rank <= 3000) return Math.floor(-10 + Math.random() * 30);
+  return Math.floor(-60 + Math.random() * 30);
+};
+
+const generateContestsForDate = (date) => {
+  if (Math.random() < 0.04) {
+    const rank = generateRank();
+    return [
+      {
+        date,
+        contestId: `LC-${date.replace(/-/g, '')}`,
+        rank,
+        ratingChange: calculateRatingChange(rank),
+      },
+    ];
+  }
+  return [];
+};
+
 const weightedProblemCounts = [0, 0, 0, 0, 1, 1, 1, 2, 2, 3, 3, 4, 5, 6, 7, 8];
 
 const generateData = () => {
   const startDate = new Date("2021-01-01");
   const endDate = new Date();
-  const data = [];
+  const problemData = [];
+  const contestData = [];
 
   for (let d = new Date(startDate); d <= endDate; d.setDate(d.getDate() + 1)) {
+    const dateStr = d.toISOString().split("T")[0];
     const numProblems = weightedProblemCounts[Math.floor(Math.random() * weightedProblemCounts.length)];
+
     const problemsSolved = Array.from({ length: numProblems }, () => {
       const { problemCode, rating } = generateProblemCode();
       return {
@@ -132,16 +167,21 @@ const generateData = () => {
       };
     });
 
-    data.push({
-      date: d.toISOString().split("T")[0],
+    problemData.push({
+      date: dateStr,
       numberOfProblemsSolved: numProblems,
       problemsSolved,
     });
+
+    contestData.push(...generateContestsForDate(dateStr));
   }
 
-  return data;
+  return { problemData, contestData };
 };
 
-const leetcodeData = generateData();
-writeFileSync(filePath, JSON.stringify(leetcodeData, null, 2));
-console.log(`LeetCode data generated and saved to ${filePath}`);
+const { problemData, contestData } = generateData();
+
+writeFileSync(problemDataPath, JSON.stringify(problemData, null, 2));
+writeFileSync(contestDataPath, JSON.stringify(contestData, null, 2));
+console.log(`LeetCode problem data saved to ${problemDataPath}`);
+console.log(`LeetCode contest data saved to ${contestDataPath}`);
