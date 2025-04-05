@@ -1,0 +1,2200 @@
+{
+  "data": [
+    {
+      "date": "2025-01-01",
+      "leetcode": 2,
+      "codeforces": 4,
+      "codechef": 2
+    },
+    {
+      "date": "2025-01-02",
+      "leetcode": 4,
+      "codeforces": 10,
+      "codechef": 6
+    },
+    {
+      "date": "2025-01-03",
+      "leetcode": 3,
+      "codeforces": 1,
+      "codechef": 4
+    },
+    {
+      "date": "2025-01-04",
+      "leetcode": 7,
+      "codeforces": 4,
+      "codechef": 8
+    },
+    {
+      "date": "2025-01-05",
+      "leetcode": 3,
+      "codeforces": 8,
+      "codechef": 2
+    },
+    {
+      "date": "2025-01-06",
+      "leetcode": 4,
+      "codeforces": 9,
+      "codechef": 1
+    },
+    {
+      "date": "2025-01-07",
+      "leetcode": 10,
+      "codeforces": 9,
+      "codechef": 9
+    },
+    {
+      "date": "2025-01-08",
+      "leetcode": 10,
+      "codeforces": 4,
+      "codechef": 1
+    },
+    {
+      "date": "2025-01-09",
+      "leetcode": 6,
+      "codeforces": 9,
+      "codechef": 9
+    },
+    {
+      "date": "2025-01-10",
+      "leetcode": 3,
+      "codeforces": 9,
+      "codechef": 8
+    },
+    {
+      "date": "2025-01-11",
+      "leetcode": 5,
+      "codeforces": 10,
+      "codechef": 6
+    },
+    {
+      "date": "2025-01-12",
+      "leetcode": 9,
+      "codeforces": 5,
+      "codechef": 7
+    },
+    {
+      "date": "2025-01-13",
+      "leetcode": 6,
+      "codeforces": 7,
+      "codechef": 5
+    },
+    {
+      "date": "2025-01-14",
+      "leetcode": 6,
+      "codeforces": 7,
+      "codechef": 7
+    },
+    {
+      "date": "2025-01-15",
+      "leetcode": 2,
+      "codeforces": 9,
+      "codechef": 8
+    },
+    {
+      "date": "2025-01-16",
+      "leetcode": 4,
+      "codeforces": 10,
+      "codechef": 6
+    },
+    {
+      "date": "2025-01-17",
+      "leetcode": 7,
+      "codeforces": 9,
+      "codechef": 4
+    },
+    {
+      "date": "2025-01-18",
+      "leetcode": 4,
+      "codeforces": 8,
+      "codechef": 4
+    },
+    {
+      "date": "2025-01-19",
+      "leetcode": 7,
+      "codeforces": 2,
+      "codechef": 3
+    },
+    {
+      "date": "2025-01-20",
+      "leetcode": 4,
+      "codeforces": 2,
+      "codechef": 1
+    },
+    {
+      "date": "2025-01-21",
+      "leetcode": 5,
+      "codeforces": 2,
+      "codechef": 3
+    },
+    {
+      "date": "2025-01-22",
+      "leetcode": 10,
+      "codeforces": 5,
+      "codechef": 10
+    },
+    {
+      "date": "2025-01-23",
+      "leetcode": 2,
+      "codeforces": 8,
+      "codechef": 5
+    },
+    {
+      "date": "2025-01-24",
+      "leetcode": 7,
+      "codeforces": 9,
+      "codechef": 10
+    },
+    {
+      "date": "2025-01-25",
+      "leetcode": 7,
+      "codeforces": 4,
+      "codechef": 8
+    },
+    {
+      "date": "2025-01-26",
+      "leetcode": 2,
+      "codeforces": 9,
+      "codechef": 8
+    },
+    {
+      "date": "2025-01-27",
+      "leetcode": 3,
+      "codeforces": 4,
+      "codechef": 1
+    },
+    {
+      "date": "2025-01-28",
+      "leetcode": 4,
+      "codeforces": 6,
+      "codechef": 1
+    },
+    {
+      "date": "2025-01-29",
+      "leetcode": 10,
+      "codeforces": 2,
+      "codechef": 1
+    },
+    {
+      "date": "2025-01-30",
+      "leetcode": 3,
+      "codeforces": 8,
+      "codechef": 3
+    },
+    {
+      "date": "2025-01-31",
+      "leetcode": 7,
+      "codeforces": 2,
+      "codechef": 8
+    },
+    {
+      "date": "2025-02-01",
+      "leetcode": 9,
+      "codeforces": 3,
+      "codechef": 7
+    },
+    {
+      "date": "2025-02-02",
+      "leetcode": 2,
+      "codeforces": 1,
+      "codechef": 7
+    },
+    {
+      "date": "2025-02-03",
+      "leetcode": 4,
+      "codeforces": 8,
+      "codechef": 8
+    },
+    {
+      "date": "2025-02-04",
+      "leetcode": 9,
+      "codeforces": 5,
+      "codechef": 6
+    },
+    {
+      "date": "2025-02-05",
+      "leetcode": 4,
+      "codeforces": 6,
+      "codechef": 9
+    },
+    {
+      "date": "2025-02-06",
+      "leetcode": 7,
+      "codeforces": 1,
+      "codechef": 5
+    },
+    {
+      "date": "2025-02-07",
+      "leetcode": 9,
+      "codeforces": 10,
+      "codechef": 9
+    },
+    {
+      "date": "2025-02-08",
+      "leetcode": 3,
+      "codeforces": 9,
+      "codechef": 1
+    },
+    {
+      "date": "2025-02-09",
+      "leetcode": 9,
+      "codeforces": 9,
+      "codechef": 6
+    },
+    {
+      "date": "2025-02-10",
+      "leetcode": 2,
+      "codeforces": 1,
+      "codechef": 6
+    },
+    {
+      "date": "2025-02-11",
+      "leetcode": 9,
+      "codeforces": 6,
+      "codechef": 2
+    },
+    {
+      "date": "2025-02-12",
+      "leetcode": 4,
+      "codeforces": 1,
+      "codechef": 9
+    },
+    {
+      "date": "2025-02-13",
+      "leetcode": 5,
+      "codeforces": 1,
+      "codechef": 2
+    },
+    {
+      "date": "2025-02-14",
+      "leetcode": 9,
+      "codeforces": 4,
+      "codechef": 7
+    },
+    {
+      "date": "2025-02-15",
+      "leetcode": 7,
+      "codeforces": 10,
+      "codechef": 8
+    },
+    {
+      "date": "2025-02-16",
+      "leetcode": 3,
+      "codeforces": 5,
+      "codechef": 9
+    },
+    {
+      "date": "2025-02-17",
+      "leetcode": 3,
+      "codeforces": 9,
+      "codechef": 7
+    },
+    {
+      "date": "2025-02-18",
+      "leetcode": 7,
+      "codeforces": 3,
+      "codechef": 1
+    },
+    {
+      "date": "2025-02-19",
+      "leetcode": 10,
+      "codeforces": 10,
+      "codechef": 7
+    },
+    {
+      "date": "2025-02-20",
+      "leetcode": 8,
+      "codeforces": 9,
+      "codechef": 1
+    },
+    {
+      "date": "2025-02-21",
+      "leetcode": 9,
+      "codeforces": 6,
+      "codechef": 9
+    },
+    {
+      "date": "2025-02-22",
+      "leetcode": 9,
+      "codeforces": 4,
+      "codechef": 7
+    },
+    {
+      "date": "2025-02-23",
+      "leetcode": 1,
+      "codeforces": 7,
+      "codechef": 2
+    },
+    {
+      "date": "2025-02-24",
+      "leetcode": 5,
+      "codeforces": 2,
+      "codechef": 8
+    },
+    {
+      "date": "2025-02-25",
+      "leetcode": 3,
+      "codeforces": 10,
+      "codechef": 9
+    },
+    {
+      "date": "2025-02-26",
+      "leetcode": 5,
+      "codeforces": 3,
+      "codechef": 9
+    },
+    {
+      "date": "2025-02-27",
+      "leetcode": 5,
+      "codeforces": 7,
+      "codechef": 6
+    },
+    {
+      "date": "2025-02-28",
+      "leetcode": 2,
+      "codeforces": 1,
+      "codechef": 10
+    },
+    {
+      "date": "2025-02-29",
+      "leetcode": 9,
+      "codeforces": 7,
+      "codechef": 5
+    },
+    {
+      "date": "2025-03-01",
+      "leetcode": 10,
+      "codeforces": 10,
+      "codechef": 9
+    },
+    {
+      "date": "2025-03-02",
+      "leetcode": 9,
+      "codeforces": 4,
+      "codechef": 10
+    },
+    {
+      "date": "2025-03-03",
+      "leetcode": 2,
+      "codeforces": 2,
+      "codechef": 7
+    },
+    {
+      "date": "2025-03-04",
+      "leetcode": 9,
+      "codeforces": 8,
+      "codechef": 8
+    },
+    {
+      "date": "2025-03-05",
+      "leetcode": 2,
+      "codeforces": 6,
+      "codechef": 8
+    },
+    {
+      "date": "2025-03-06",
+      "leetcode": 9,
+      "codeforces": 5,
+      "codechef": 4
+    },
+    {
+      "date": "2025-03-07",
+      "leetcode": 8,
+      "codeforces": 4,
+      "codechef": 8
+    },
+    {
+      "date": "2025-03-08",
+      "leetcode": 1,
+      "codeforces": 4,
+      "codechef": 8
+    },
+    {
+      "date": "2025-03-09",
+      "leetcode": 9,
+      "codeforces": 3,
+      "codechef": 10
+    },
+    {
+      "date": "2025-03-10",
+      "leetcode": 8,
+      "codeforces": 5,
+      "codechef": 9
+    },
+    {
+      "date": "2025-03-11",
+      "leetcode": 3,
+      "codeforces": 4,
+      "codechef": 2
+    },
+    {
+      "date": "2025-03-12",
+      "leetcode": 2,
+      "codeforces": 4,
+      "codechef": 6
+    },
+    {
+      "date": "2025-03-13",
+      "leetcode": 8,
+      "codeforces": 1,
+      "codechef": 8
+    },
+    {
+      "date": "2025-03-14",
+      "leetcode": 7,
+      "codeforces": 1,
+      "codechef": 9
+    },
+    {
+      "date": "2025-03-15",
+      "leetcode": 10,
+      "codeforces": 5,
+      "codechef": 5
+    },
+    {
+      "date": "2025-03-16",
+      "leetcode": 5,
+      "codeforces": 1,
+      "codechef": 6
+    },
+    {
+      "date": "2025-03-17",
+      "leetcode": 4,
+      "codeforces": 10,
+      "codechef": 8
+    },
+    {
+      "date": "2025-03-18",
+      "leetcode": 5,
+      "codeforces": 7,
+      "codechef": 10
+    },
+    {
+      "date": "2025-03-19",
+      "leetcode": 6,
+      "codeforces": 5,
+      "codechef": 1
+    },
+    {
+      "date": "2025-03-20",
+      "leetcode": 2,
+      "codeforces": 10,
+      "codechef": 10
+    },
+    {
+      "date": "2025-03-21",
+      "leetcode": 5,
+      "codeforces": 4,
+      "codechef": 1
+    },
+    {
+      "date": "2025-03-22",
+      "leetcode": 4,
+      "codeforces": 4,
+      "codechef": 8
+    },
+    {
+      "date": "2025-03-23",
+      "leetcode": 7,
+      "codeforces": 8,
+      "codechef": 1
+    },
+    {
+      "date": "2025-03-24",
+      "leetcode": 8,
+      "codeforces": 10,
+      "codechef": 9
+    },
+    {
+      "date": "2025-03-25",
+      "leetcode": 8,
+      "codeforces": 10,
+      "codechef": 10
+    },
+    {
+      "date": "2025-03-26",
+      "leetcode": 9,
+      "codeforces": 8,
+      "codechef": 10
+    },
+    {
+      "date": "2025-03-27",
+      "leetcode": 6,
+      "codeforces": 3,
+      "codechef": 3
+    },
+    {
+      "date": "2025-03-28",
+      "leetcode": 2,
+      "codeforces": 10,
+      "codechef": 7
+    },
+    {
+      "date": "2025-03-29",
+      "leetcode": 10,
+      "codeforces": 9,
+      "codechef": 7
+    },
+    {
+      "date": "2025-03-30",
+      "leetcode": 1,
+      "codeforces": 5,
+      "codechef": 1
+    },
+    {
+      "date": "2025-03-31",
+      "leetcode": 10,
+      "codeforces": 10,
+      "codechef": 9
+    },
+    {
+      "date": "2025-04-01",
+      "leetcode": 2,
+      "codeforces": 10,
+      "codechef": 3
+    },
+    {
+      "date": "2025-04-02",
+      "leetcode": 7,
+      "codeforces": 8,
+      "codechef": 7
+    },
+    {
+      "date": "2025-04-03",
+      "leetcode": 1,
+      "codeforces": 4,
+      "codechef": 5
+    },
+    {
+      "date": "2025-04-04",
+      "leetcode": 3,
+      "codeforces": 10,
+      "codechef": 8
+    },
+    {
+      "date": "2025-04-05",
+      "leetcode": 1,
+      "codeforces": 8,
+      "codechef": 3
+    },
+    {
+      "date": "2025-04-06",
+      "leetcode": 10,
+      "codeforces": 10,
+      "codechef": 1
+    },
+    {
+      "date": "2025-04-07",
+      "leetcode": 8,
+      "codeforces": 4,
+      "codechef": 4
+    },
+    {
+      "date": "2025-04-08",
+      "leetcode": 10,
+      "codeforces": 5,
+      "codechef": 7
+    },
+    {
+      "date": "2025-04-09",
+      "leetcode": 1,
+      "codeforces": 3,
+      "codechef": 7
+    },
+    {
+      "date": "2025-04-10",
+      "leetcode": 8,
+      "codeforces": 10,
+      "codechef": 7
+    },
+    {
+      "date": "2025-04-11",
+      "leetcode": 10,
+      "codeforces": 9,
+      "codechef": 3
+    },
+    {
+      "date": "2025-04-12",
+      "leetcode": 10,
+      "codeforces": 2,
+      "codechef": 3
+    },
+    {
+      "date": "2025-04-13",
+      "leetcode": 6,
+      "codeforces": 10,
+      "codechef": 3
+    },
+    {
+      "date": "2025-04-14",
+      "leetcode": 7,
+      "codeforces": 10,
+      "codechef": 1
+    },
+    {
+      "date": "2025-04-15",
+      "leetcode": 3,
+      "codeforces": 2,
+      "codechef": 7
+    },
+    {
+      "date": "2025-04-16",
+      "leetcode": 10,
+      "codeforces": 7,
+      "codechef": 4
+    },
+    {
+      "date": "2025-04-17",
+      "leetcode": 7,
+      "codeforces": 5,
+      "codechef": 4
+    },
+    {
+      "date": "2025-04-18",
+      "leetcode": 6,
+      "codeforces": 10,
+      "codechef": 9
+    },
+    {
+      "date": "2025-04-19",
+      "leetcode": 9,
+      "codeforces": 2,
+      "codechef": 1
+    },
+    {
+      "date": "2025-04-20",
+      "leetcode": 9,
+      "codeforces": 1,
+      "codechef": 9
+    },
+    {
+      "date": "2025-04-21",
+      "leetcode": 4,
+      "codeforces": 6,
+      "codechef": 10
+    },
+    {
+      "date": "2025-04-22",
+      "leetcode": 4,
+      "codeforces": 3,
+      "codechef": 7
+    },
+    {
+      "date": "2025-04-23",
+      "leetcode": 8,
+      "codeforces": 3,
+      "codechef": 8
+    },
+    {
+      "date": "2025-04-24",
+      "leetcode": 3,
+      "codeforces": 10,
+      "codechef": 10
+    },
+    {
+      "date": "2025-04-25",
+      "leetcode": 6,
+      "codeforces": 10,
+      "codechef": 8
+    },
+    {
+      "date": "2025-04-26",
+      "leetcode": 6,
+      "codeforces": 1,
+      "codechef": 4
+    },
+    {
+      "date": "2025-04-27",
+      "leetcode": 9,
+      "codeforces": 9,
+      "codechef": 5
+    },
+    {
+      "date": "2025-04-28",
+      "leetcode": 9,
+      "codeforces": 5,
+      "codechef": 1
+    },
+    {
+      "date": "2025-04-29",
+      "leetcode": 5,
+      "codeforces": 1,
+      "codechef": 3
+    },
+    {
+      "date": "2025-04-30",
+      "leetcode": 5,
+      "codeforces": 5,
+      "codechef": 5
+    },
+    {
+      "date": "2025-05-01",
+      "leetcode": 4,
+      "codeforces": 7,
+      "codechef": 10
+    },
+    {
+      "date": "2025-05-02",
+      "leetcode": 6,
+      "codeforces": 5,
+      "codechef": 8
+    },
+    {
+      "date": "2025-05-03",
+      "leetcode": 1,
+      "codeforces": 9,
+      "codechef": 7
+    },
+    {
+      "date": "2025-05-04",
+      "leetcode": 3,
+      "codeforces": 4,
+      "codechef": 10
+    },
+    {
+      "date": "2025-05-05",
+      "leetcode": 3,
+      "codeforces": 3,
+      "codechef": 8
+    },
+    {
+      "date": "2025-05-06",
+      "leetcode": 6,
+      "codeforces": 4,
+      "codechef": 6
+    },
+    {
+      "date": "2025-05-07",
+      "leetcode": 3,
+      "codeforces": 9,
+      "codechef": 6
+    },
+    {
+      "date": "2025-05-08",
+      "leetcode": 6,
+      "codeforces": 4,
+      "codechef": 6
+    },
+    {
+      "date": "2025-05-09",
+      "leetcode": 9,
+      "codeforces": 1,
+      "codechef": 10
+    },
+    {
+      "date": "2025-05-10",
+      "leetcode": 3,
+      "codeforces": 8,
+      "codechef": 4
+    },
+    {
+      "date": "2025-05-11",
+      "leetcode": 5,
+      "codeforces": 7,
+      "codechef": 8
+    },
+    {
+      "date": "2025-05-12",
+      "leetcode": 10,
+      "codeforces": 7,
+      "codechef": 5
+    },
+    {
+      "date": "2025-05-13",
+      "leetcode": 2,
+      "codeforces": 7,
+      "codechef": 1
+    },
+    {
+      "date": "2025-05-14",
+      "leetcode": 2,
+      "codeforces": 3,
+      "codechef": 9
+    },
+    {
+      "date": "2025-05-15",
+      "leetcode": 9,
+      "codeforces": 3,
+      "codechef": 10
+    },
+    {
+      "date": "2025-05-16",
+      "leetcode": 1,
+      "codeforces": 9,
+      "codechef": 3
+    },
+    {
+      "date": "2025-05-17",
+      "leetcode": 5,
+      "codeforces": 1,
+      "codechef": 3
+    },
+    {
+      "date": "2025-05-18",
+      "leetcode": 2,
+      "codeforces": 6,
+      "codechef": 1
+    },
+    {
+      "date": "2025-05-19",
+      "leetcode": 1,
+      "codeforces": 5,
+      "codechef": 8
+    },
+    {
+      "date": "2025-05-20",
+      "leetcode": 5,
+      "codeforces": 7,
+      "codechef": 6
+    },
+    {
+      "date": "2025-05-21",
+      "leetcode": 2,
+      "codeforces": 6,
+      "codechef": 9
+    },
+    {
+      "date": "2025-05-22",
+      "leetcode": 4,
+      "codeforces": 5,
+      "codechef": 8
+    },
+    {
+      "date": "2025-05-23",
+      "leetcode": 2,
+      "codeforces": 3,
+      "codechef": 9
+    },
+    {
+      "date": "2025-05-24",
+      "leetcode": 1,
+      "codeforces": 3,
+      "codechef": 7
+    },
+    {
+      "date": "2025-05-25",
+      "leetcode": 6,
+      "codeforces": 1,
+      "codechef": 8
+    },
+    {
+      "date": "2025-05-26",
+      "leetcode": 10,
+      "codeforces": 7,
+      "codechef": 6
+    },
+    {
+      "date": "2025-05-27",
+      "leetcode": 10,
+      "codeforces": 4,
+      "codechef": 8
+    },
+    {
+      "date": "2025-05-28",
+      "leetcode": 10,
+      "codeforces": 7,
+      "codechef": 4
+    },
+    {
+      "date": "2025-05-29",
+      "leetcode": 8,
+      "codeforces": 5,
+      "codechef": 7
+    },
+    {
+      "date": "2025-05-30",
+      "leetcode": 8,
+      "codeforces": 3,
+      "codechef": 1
+    },
+    {
+      "date": "2025-05-31",
+      "leetcode": 8,
+      "codeforces": 5,
+      "codechef": 2
+    },
+    {
+      "date": "2025-06-01",
+      "leetcode": 8,
+      "codeforces": 2,
+      "codechef": 7
+    },
+    {
+      "date": "2025-06-02",
+      "leetcode": 6,
+      "codeforces": 8,
+      "codechef": 2
+    },
+    {
+      "date": "2025-06-03",
+      "leetcode": 3,
+      "codeforces": 9,
+      "codechef": 3
+    },
+    {
+      "date": "2025-06-04",
+      "leetcode": 3,
+      "codeforces": 2,
+      "codechef": 3
+    },
+    {
+      "date": "2025-06-05",
+      "leetcode": 4,
+      "codeforces": 9,
+      "codechef": 7
+    },
+    {
+      "date": "2025-06-06",
+      "leetcode": 1,
+      "codeforces": 5,
+      "codechef": 9
+    },
+    {
+      "date": "2025-06-07",
+      "leetcode": 1,
+      "codeforces": 10,
+      "codechef": 10
+    },
+    {
+      "date": "2025-06-08",
+      "leetcode": 6,
+      "codeforces": 3,
+      "codechef": 10
+    },
+    {
+      "date": "2025-06-09",
+      "leetcode": 10,
+      "codeforces": 10,
+      "codechef": 9
+    },
+    {
+      "date": "2025-06-10",
+      "leetcode": 1,
+      "codeforces": 3,
+      "codechef": 5
+    },
+    {
+      "date": "2025-06-11",
+      "leetcode": 5,
+      "codeforces": 1,
+      "codechef": 2
+    },
+    {
+      "date": "2025-06-12",
+      "leetcode": 9,
+      "codeforces": 3,
+      "codechef": 6
+    },
+    {
+      "date": "2025-06-13",
+      "leetcode": 10,
+      "codeforces": 3,
+      "codechef": 7
+    },
+    {
+      "date": "2025-06-14",
+      "leetcode": 2,
+      "codeforces": 7,
+      "codechef": 9
+    },
+    {
+      "date": "2025-06-15",
+      "leetcode": 4,
+      "codeforces": 7,
+      "codechef": 2
+    },
+    {
+      "date": "2025-06-16",
+      "leetcode": 3,
+      "codeforces": 9,
+      "codechef": 9
+    },
+    {
+      "date": "2025-06-17",
+      "leetcode": 9,
+      "codeforces": 4,
+      "codechef": 6
+    },
+    {
+      "date": "2025-06-18",
+      "leetcode": 6,
+      "codeforces": 6,
+      "codechef": 3
+    },
+    {
+      "date": "2025-06-19",
+      "leetcode": 8,
+      "codeforces": 4,
+      "codechef": 10
+    },
+    {
+      "date": "2025-06-20",
+      "leetcode": 1,
+      "codeforces": 3,
+      "codechef": 1
+    },
+    {
+      "date": "2025-06-21",
+      "leetcode": 3,
+      "codeforces": 10,
+      "codechef": 6
+    },
+    {
+      "date": "2025-06-22",
+      "leetcode": 7,
+      "codeforces": 2,
+      "codechef": 1
+    },
+    {
+      "date": "2025-06-23",
+      "leetcode": 5,
+      "codeforces": 5,
+      "codechef": 10
+    },
+    {
+      "date": "2025-06-24",
+      "leetcode": 8,
+      "codeforces": 3,
+      "codechef": 4
+    },
+    {
+      "date": "2025-06-25",
+      "leetcode": 5,
+      "codeforces": 5,
+      "codechef": 3
+    },
+    {
+      "date": "2025-06-26",
+      "leetcode": 10,
+      "codeforces": 5,
+      "codechef": 5
+    },
+    {
+      "date": "2025-06-27",
+      "leetcode": 7,
+      "codeforces": 10,
+      "codechef": 6
+    },
+    {
+      "date": "2025-06-28",
+      "leetcode": 1,
+      "codeforces": 2,
+      "codechef": 3
+    },
+    {
+      "date": "2025-06-29",
+      "leetcode": 4,
+      "codeforces": 3,
+      "codechef": 4
+    },
+    {
+      "date": "2025-06-30",
+      "leetcode": 9,
+      "codeforces": 10,
+      "codechef": 2
+    },
+    {
+      "date": "2025-07-01",
+      "leetcode": 7,
+      "codeforces": 5,
+      "codechef": 9
+    },
+    {
+      "date": "2025-07-02",
+      "leetcode": 2,
+      "codeforces": 4,
+      "codechef": 7
+    },
+    {
+      "date": "2025-07-03",
+      "leetcode": 9,
+      "codeforces": 2,
+      "codechef": 8
+    },
+    {
+      "date": "2025-07-04",
+      "leetcode": 7,
+      "codeforces": 6,
+      "codechef": 10
+    },
+    {
+      "date": "2025-07-05",
+      "leetcode": 8,
+      "codeforces": 3,
+      "codechef": 9
+    },
+    {
+      "date": "2025-07-06",
+      "leetcode": 10,
+      "codeforces": 4,
+      "codechef": 5
+    },
+    {
+      "date": "2025-07-07",
+      "leetcode": 5,
+      "codeforces": 7,
+      "codechef": 9
+    },
+    {
+      "date": "2025-07-08",
+      "leetcode": 7,
+      "codeforces": 4,
+      "codechef": 3
+    },
+    {
+      "date": "2025-07-09",
+      "leetcode": 8,
+      "codeforces": 6,
+      "codechef": 9
+    },
+    {
+      "date": "2025-07-10",
+      "leetcode": 6,
+      "codeforces": 5,
+      "codechef": 7
+    },
+    {
+      "date": "2025-07-11",
+      "leetcode": 10,
+      "codeforces": 3,
+      "codechef": 4
+    },
+    {
+      "date": "2025-07-12",
+      "leetcode": 10,
+      "codeforces": 10,
+      "codechef": 9
+    },
+    {
+      "date": "2025-07-13",
+      "leetcode": 3,
+      "codeforces": 4,
+      "codechef": 4
+    },
+    {
+      "date": "2025-07-14",
+      "leetcode": 8,
+      "codeforces": 3,
+      "codechef": 3
+    },
+    {
+      "date": "2025-07-15",
+      "leetcode": 4,
+      "codeforces": 8,
+      "codechef": 9
+    },
+    {
+      "date": "2025-07-16",
+      "leetcode": 7,
+      "codeforces": 4,
+      "codechef": 2
+    },
+    {
+      "date": "2025-07-17",
+      "leetcode": 7,
+      "codeforces": 8,
+      "codechef": 4
+    },
+    {
+      "date": "2025-07-18",
+      "leetcode": 5,
+      "codeforces": 2,
+      "codechef": 6
+    },
+    {
+      "date": "2025-07-19",
+      "leetcode": 4,
+      "codeforces": 10,
+      "codechef": 8
+    },
+    {
+      "date": "2025-07-20",
+      "leetcode": 10,
+      "codeforces": 7,
+      "codechef": 9
+    },
+    {
+      "date": "2025-07-21",
+      "leetcode": 3,
+      "codeforces": 2,
+      "codechef": 2
+    },
+    {
+      "date": "2025-07-22",
+      "leetcode": 5,
+      "codeforces": 7,
+      "codechef": 1
+    },
+    {
+      "date": "2025-07-23",
+      "leetcode": 6,
+      "codeforces": 2,
+      "codechef": 6
+    },
+    {
+      "date": "2025-07-24",
+      "leetcode": 3,
+      "codeforces": 6,
+      "codechef": 10
+    },
+    {
+      "date": "2025-07-25",
+      "leetcode": 10,
+      "codeforces": 3,
+      "codechef": 6
+    },
+    {
+      "date": "2025-07-26",
+      "leetcode": 6,
+      "codeforces": 5,
+      "codechef": 1
+    },
+    {
+      "date": "2025-07-27",
+      "leetcode": 5,
+      "codeforces": 6,
+      "codechef": 9
+    },
+    {
+      "date": "2025-07-28",
+      "leetcode": 6,
+      "codeforces": 6,
+      "codechef": 8
+    },
+    {
+      "date": "2025-07-29",
+      "leetcode": 10,
+      "codeforces": 4,
+      "codechef": 7
+    },
+    {
+      "date": "2025-07-30",
+      "leetcode": 4,
+      "codeforces": 5,
+      "codechef": 3
+    },
+    {
+      "date": "2025-07-31",
+      "leetcode": 3,
+      "codeforces": 8,
+      "codechef": 4
+    },
+    {
+      "date": "2025-08-01",
+      "leetcode": 2,
+      "codeforces": 8,
+      "codechef": 10
+    },
+    {
+      "date": "2025-08-02",
+      "leetcode": 1,
+      "codeforces": 2,
+      "codechef": 6
+    },
+    {
+      "date": "2025-08-03",
+      "leetcode": 3,
+      "codeforces": 2,
+      "codechef": 2
+    },
+    {
+      "date": "2025-08-04",
+      "leetcode": 10,
+      "codeforces": 10,
+      "codechef": 4
+    },
+    {
+      "date": "2025-08-05",
+      "leetcode": 7,
+      "codeforces": 5,
+      "codechef": 6
+    },
+    {
+      "date": "2025-08-06",
+      "leetcode": 2,
+      "codeforces": 9,
+      "codechef": 2
+    },
+    {
+      "date": "2025-08-07",
+      "leetcode": 5,
+      "codeforces": 7,
+      "codechef": 1
+    },
+    {
+      "date": "2025-08-08",
+      "leetcode": 7,
+      "codeforces": 1,
+      "codechef": 8
+    },
+    {
+      "date": "2025-08-09",
+      "leetcode": 3,
+      "codeforces": 10,
+      "codechef": 3
+    },
+    {
+      "date": "2025-08-10",
+      "leetcode": 9,
+      "codeforces": 2,
+      "codechef": 4
+    },
+    {
+      "date": "2025-08-11",
+      "leetcode": 7,
+      "codeforces": 5,
+      "codechef": 10
+    },
+    {
+      "date": "2025-08-12",
+      "leetcode": 2,
+      "codeforces": 2,
+      "codechef": 1
+    },
+    {
+      "date": "2025-08-13",
+      "leetcode": 5,
+      "codeforces": 7,
+      "codechef": 2
+    },
+    {
+      "date": "2025-08-14",
+      "leetcode": 10,
+      "codeforces": 4,
+      "codechef": 4
+    },
+    {
+      "date": "2025-08-15",
+      "leetcode": 8,
+      "codeforces": 8,
+      "codechef": 7
+    },
+    {
+      "date": "2025-08-16",
+      "leetcode": 2,
+      "codeforces": 10,
+      "codechef": 4
+    },
+    {
+      "date": "2025-08-17",
+      "leetcode": 9,
+      "codeforces": 6,
+      "codechef": 8
+    },
+    {
+      "date": "2025-08-18",
+      "leetcode": 5,
+      "codeforces": 8,
+      "codechef": 7
+    },
+    {
+      "date": "2025-08-19",
+      "leetcode": 10,
+      "codeforces": 10,
+      "codechef": 4
+    },
+    {
+      "date": "2025-08-20",
+      "leetcode": 8,
+      "codeforces": 1,
+      "codechef": 5
+    },
+    {
+      "date": "2025-08-21",
+      "leetcode": 5,
+      "codeforces": 7,
+      "codechef": 8
+    },
+    {
+      "date": "2025-08-22",
+      "leetcode": 7,
+      "codeforces": 2,
+      "codechef": 3
+    },
+    {
+      "date": "2025-08-23",
+      "leetcode": 10,
+      "codeforces": 1,
+      "codechef": 4
+    },
+    {
+      "date": "2025-08-24",
+      "leetcode": 6,
+      "codeforces": 3,
+      "codechef": 10
+    },
+    {
+      "date": "2025-08-25",
+      "leetcode": 5,
+      "codeforces": 3,
+      "codechef": 9
+    },
+    {
+      "date": "2025-08-26",
+      "leetcode": 3,
+      "codeforces": 9,
+      "codechef": 3
+    },
+    {
+      "date": "2025-08-27",
+      "leetcode": 8,
+      "codeforces": 9,
+      "codechef": 3
+    },
+    {
+      "date": "2025-08-28",
+      "leetcode": 10,
+      "codeforces": 2,
+      "codechef": 2
+    },
+    {
+      "date": "2025-08-29",
+      "leetcode": 1,
+      "codeforces": 10,
+      "codechef": 5
+    },
+    {
+      "date": "2025-08-30",
+      "leetcode": 7,
+      "codeforces": 1,
+      "codechef": 5
+    },
+    {
+      "date": "2025-08-31",
+      "leetcode": 6,
+      "codeforces": 5,
+      "codechef": 10
+    },
+    {
+      "date": "2025-09-01",
+      "leetcode": 9,
+      "codeforces": 2,
+      "codechef": 1
+    },
+    {
+      "date": "2025-09-02",
+      "leetcode": 8,
+      "codeforces": 10,
+      "codechef": 4
+    },
+    {
+      "date": "2025-09-03",
+      "leetcode": 3,
+      "codeforces": 5,
+      "codechef": 8
+    },
+    {
+      "date": "2025-09-04",
+      "leetcode": 3,
+      "codeforces": 9,
+      "codechef": 2
+    },
+    {
+      "date": "2025-09-05",
+      "leetcode": 3,
+      "codeforces": 7,
+      "codechef": 10
+    },
+    {
+      "date": "2025-09-06",
+      "leetcode": 5,
+      "codeforces": 9,
+      "codechef": 5
+    },
+    {
+      "date": "2025-09-07",
+      "leetcode": 10,
+      "codeforces": 8,
+      "codechef": 5
+    },
+    {
+      "date": "2025-09-08",
+      "leetcode": 10,
+      "codeforces": 1,
+      "codechef": 9
+    },
+    {
+      "date": "2025-09-09",
+      "leetcode": 4,
+      "codeforces": 2,
+      "codechef": 8
+    },
+    {
+      "date": "2025-09-10",
+      "leetcode": 10,
+      "codeforces": 4,
+      "codechef": 5
+    },
+    {
+      "date": "2025-09-11",
+      "leetcode": 1,
+      "codeforces": 4,
+      "codechef": 9
+    },
+    {
+      "date": "2025-09-12",
+      "leetcode": 4,
+      "codeforces": 5,
+      "codechef": 9
+    },
+    {
+      "date": "2025-09-13",
+      "leetcode": 3,
+      "codeforces": 10,
+      "codechef": 10
+    },
+    {
+      "date": "2025-09-14",
+      "leetcode": 2,
+      "codeforces": 5,
+      "codechef": 1
+    },
+    {
+      "date": "2025-09-15",
+      "leetcode": 1,
+      "codeforces": 1,
+      "codechef": 5
+    },
+    {
+      "date": "2025-09-16",
+      "leetcode": 8,
+      "codeforces": 4,
+      "codechef": 3
+    },
+    {
+      "date": "2025-09-17",
+      "leetcode": 9,
+      "codeforces": 2,
+      "codechef": 3
+    },
+    {
+      "date": "2025-09-18",
+      "leetcode": 9,
+      "codeforces": 6,
+      "codechef": 8
+    },
+    {
+      "date": "2025-09-19",
+      "leetcode": 8,
+      "codeforces": 9,
+      "codechef": 4
+    },
+    {
+      "date": "2025-09-20",
+      "leetcode": 1,
+      "codeforces": 4,
+      "codechef": 10
+    },
+    {
+      "date": "2025-09-21",
+      "leetcode": 6,
+      "codeforces": 2,
+      "codechef": 8
+    },
+    {
+      "date": "2025-09-22",
+      "leetcode": 3,
+      "codeforces": 10,
+      "codechef": 4
+    },
+    {
+      "date": "2025-09-23",
+      "leetcode": 6,
+      "codeforces": 3,
+      "codechef": 4
+    },
+    {
+      "date": "2025-09-24",
+      "leetcode": 6,
+      "codeforces": 2,
+      "codechef": 4
+    },
+    {
+      "date": "2025-09-25",
+      "leetcode": 10,
+      "codeforces": 6,
+      "codechef": 1
+    },
+    {
+      "date": "2025-09-26",
+      "leetcode": 7,
+      "codeforces": 8,
+      "codechef": 2
+    },
+    {
+      "date": "2025-09-27",
+      "leetcode": 6,
+      "codeforces": 10,
+      "codechef": 2
+    },
+    {
+      "date": "2025-09-28",
+      "leetcode": 6,
+      "codeforces": 3,
+      "codechef": 7
+    },
+    {
+      "date": "2025-09-29",
+      "leetcode": 2,
+      "codeforces": 2,
+      "codechef": 7
+    },
+    {
+      "date": "2025-09-30",
+      "leetcode": 4,
+      "codeforces": 9,
+      "codechef": 4
+    },
+    {
+      "date": "2025-10-01",
+      "leetcode": 1,
+      "codeforces": 6,
+      "codechef": 5
+    },
+    {
+      "date": "2025-10-02",
+      "leetcode": 3,
+      "codeforces": 9,
+      "codechef": 9
+    },
+    {
+      "date": "2025-10-03",
+      "leetcode": 10,
+      "codeforces": 8,
+      "codechef": 4
+    },
+    {
+      "date": "2025-10-04",
+      "leetcode": 6,
+      "codeforces": 10,
+      "codechef": 9
+    },
+    {
+      "date": "2025-10-05",
+      "leetcode": 3,
+      "codeforces": 8,
+      "codechef": 3
+    },
+    {
+      "date": "2025-10-06",
+      "leetcode": 8,
+      "codeforces": 4,
+      "codechef": 9
+    },
+    {
+      "date": "2025-10-07",
+      "leetcode": 2,
+      "codeforces": 2,
+      "codechef": 4
+    },
+    {
+      "date": "2025-10-08",
+      "leetcode": 6,
+      "codeforces": 10,
+      "codechef": 9
+    },
+    {
+      "date": "2025-10-09",
+      "leetcode": 9,
+      "codeforces": 3,
+      "codechef": 10
+    },
+    {
+      "date": "2025-10-10",
+      "leetcode": 3,
+      "codeforces": 4,
+      "codechef": 1
+    },
+    {
+      "date": "2025-10-11",
+      "leetcode": 2,
+      "codeforces": 9,
+      "codechef": 5
+    },
+    {
+      "date": "2025-10-12",
+      "leetcode": 7,
+      "codeforces": 1,
+      "codechef": 10
+    },
+    {
+      "date": "2025-10-13",
+      "leetcode": 5,
+      "codeforces": 10,
+      "codechef": 7
+    },
+    {
+      "date": "2025-10-14",
+      "leetcode": 6,
+      "codeforces": 1,
+      "codechef": 5
+    },
+    {
+      "date": "2025-10-15",
+      "leetcode": 4,
+      "codeforces": 9,
+      "codechef": 3
+    },
+    {
+      "date": "2025-10-16",
+      "leetcode": 8,
+      "codeforces": 1,
+      "codechef": 6
+    },
+    {
+      "date": "2025-10-17",
+      "leetcode": 10,
+      "codeforces": 6,
+      "codechef": 3
+    },
+    {
+      "date": "2025-10-18",
+      "leetcode": 2,
+      "codeforces": 2,
+      "codechef": 6
+    },
+    {
+      "date": "2025-10-19",
+      "leetcode": 9,
+      "codeforces": 4,
+      "codechef": 7
+    },
+    {
+      "date": "2025-10-20",
+      "leetcode": 4,
+      "codeforces": 7,
+      "codechef": 2
+    },
+    {
+      "date": "2025-10-21",
+      "leetcode": 3,
+      "codeforces": 8,
+      "codechef": 2
+    },
+    {
+      "date": "2025-10-22",
+      "leetcode": 3,
+      "codeforces": 5,
+      "codechef": 10
+    },
+    {
+      "date": "2025-10-23",
+      "leetcode": 7,
+      "codeforces": 2,
+      "codechef": 8
+    },
+    {
+      "date": "2025-10-24",
+      "leetcode": 7,
+      "codeforces": 4,
+      "codechef": 7
+    },
+    {
+      "date": "2025-10-25",
+      "leetcode": 1,
+      "codeforces": 6,
+      "codechef": 4
+    },
+    {
+      "date": "2025-10-26",
+      "leetcode": 3,
+      "codeforces": 9,
+      "codechef": 2
+    },
+    {
+      "date": "2025-10-27",
+      "leetcode": 2,
+      "codeforces": 1,
+      "codechef": 1
+    },
+    {
+      "date": "2025-10-28",
+      "leetcode": 2,
+      "codeforces": 3,
+      "codechef": 2
+    },
+    {
+      "date": "2025-10-29",
+      "leetcode": 1,
+      "codeforces": 4,
+      "codechef": 9
+    },
+    {
+      "date": "2025-10-30",
+      "leetcode": 4,
+      "codeforces": 4,
+      "codechef": 6
+    },
+    {
+      "date": "2025-10-31",
+      "leetcode": 3,
+      "codeforces": 5,
+      "codechef": 7
+    },
+    {
+      "date": "2025-11-01",
+      "leetcode": 6,
+      "codeforces": 9,
+      "codechef": 3
+    },
+    {
+      "date": "2025-11-02",
+      "leetcode": 4,
+      "codeforces": 4,
+      "codechef": 10
+    },
+    {
+      "date": "2025-11-03",
+      "leetcode": 3,
+      "codeforces": 4,
+      "codechef": 6
+    },
+    {
+      "date": "2025-11-04",
+      "leetcode": 7,
+      "codeforces": 9,
+      "codechef": 10
+    },
+    {
+      "date": "2025-11-05",
+      "leetcode": 10,
+      "codeforces": 10,
+      "codechef": 2
+    },
+    {
+      "date": "2025-11-06",
+      "leetcode": 2,
+      "codeforces": 6,
+      "codechef": 6
+    },
+    {
+      "date": "2025-11-07",
+      "leetcode": 2,
+      "codeforces": 5,
+      "codechef": 2
+    },
+    {
+      "date": "2025-11-08",
+      "leetcode": 7,
+      "codeforces": 6,
+      "codechef": 5
+    },
+    {
+      "date": "2025-11-09",
+      "leetcode": 3,
+      "codeforces": 6,
+      "codechef": 1
+    },
+    {
+      "date": "2025-11-10",
+      "leetcode": 1,
+      "codeforces": 2,
+      "codechef": 3
+    },
+    {
+      "date": "2025-11-11",
+      "leetcode": 5,
+      "codeforces": 1,
+      "codechef": 3
+    },
+    {
+      "date": "2025-11-12",
+      "leetcode": 9,
+      "codeforces": 5,
+      "codechef": 9
+    },
+    {
+      "date": "2025-11-13",
+      "leetcode": 9,
+      "codeforces": 4,
+      "codechef": 4
+    },
+    {
+      "date": "2025-11-14",
+      "leetcode": 6,
+      "codeforces": 3,
+      "codechef": 10
+    },
+    {
+      "date": "2025-11-15",
+      "leetcode": 6,
+      "codeforces": 8,
+      "codechef": 9
+    },
+    {
+      "date": "2025-11-16",
+      "leetcode": 4,
+      "codeforces": 8,
+      "codechef": 7
+    },
+    {
+      "date": "2025-11-17",
+      "leetcode": 8,
+      "codeforces": 8,
+      "codechef": 4
+    },
+    {
+      "date": "2025-11-18",
+      "leetcode": 7,
+      "codeforces": 8,
+      "codechef": 10
+    },
+    {
+      "date": "2025-11-19",
+      "leetcode": 5,
+      "codeforces": 10,
+      "codechef": 6
+    },
+    {
+      "date": "2025-11-20",
+      "leetcode": 5,
+      "codeforces": 5,
+      "codechef": 3
+    },
+    {
+      "date": "2025-11-21",
+      "leetcode": 1,
+      "codeforces": 2,
+      "codechef": 10
+    },
+    {
+      "date": "2025-11-22",
+      "leetcode": 7,
+      "codeforces": 9,
+      "codechef": 7
+    },
+    {
+      "date": "2025-11-23",
+      "leetcode": 3,
+      "codeforces": 3,
+      "codechef": 3
+    },
+    {
+      "date": "2025-11-24",
+      "leetcode": 1,
+      "codeforces": 4,
+      "codechef": 9
+    },
+    {
+      "date": "2025-11-25",
+      "leetcode": 3,
+      "codeforces": 4,
+      "codechef": 1
+    },
+    {
+      "date": "2025-11-26",
+      "leetcode": 6,
+      "codeforces": 5,
+      "codechef": 8
+    },
+    {
+      "date": "2025-11-27",
+      "leetcode": 4,
+      "codeforces": 7,
+      "codechef": 6
+    },
+    {
+      "date": "2025-11-28",
+      "leetcode": 4,
+      "codeforces": 3,
+      "codechef": 8
+    },
+    {
+      "date": "2025-11-29",
+      "leetcode": 8,
+      "codeforces": 7,
+      "codechef": 4
+    },
+    {
+      "date": "2025-11-30",
+      "leetcode": 1,
+      "codeforces": 5,
+      "codechef": 7
+    },
+    {
+      "date": "2025-12-01",
+      "leetcode": 1,
+      "codeforces": 9,
+      "codechef": 8
+    },
+    {
+      "date": "2025-12-02",
+      "leetcode": 1,
+      "codeforces": 3,
+      "codechef": 8
+    },
+    {
+      "date": "2025-12-03",
+      "leetcode": 4,
+      "codeforces": 4,
+      "codechef": 5
+    },
+    {
+      "date": "2025-12-04",
+      "leetcode": 7,
+      "codeforces": 1,
+      "codechef": 5
+    },
+    {
+      "date": "2025-12-05",
+      "leetcode": 8,
+      "codeforces": 7,
+      "codechef": 8
+    },
+    {
+      "date": "2025-12-06",
+      "leetcode": 4,
+      "codeforces": 10,
+      "codechef": 9
+    },
+    {
+      "date": "2025-12-07",
+      "leetcode": 8,
+      "codeforces": 7,
+      "codechef": 3
+    },
+    {
+      "date": "2025-12-08",
+      "leetcode": 2,
+      "codeforces": 4,
+      "codechef": 9
+    },
+    {
+      "date": "2025-12-09",
+      "leetcode": 2,
+      "codeforces": 7,
+      "codechef": 6
+    },
+    {
+      "date": "2025-12-10",
+      "leetcode": 10,
+      "codeforces": 7,
+      "codechef": 4
+    },
+    {
+      "date": "2025-12-11",
+      "leetcode": 10,
+      "codeforces": 2,
+      "codechef": 9
+    },
+    {
+      "date": "2025-12-12",
+      "leetcode": 4,
+      "codeforces": 9,
+      "codechef": 7
+    },
+    {
+      "date": "2025-12-13",
+      "leetcode": 3,
+      "codeforces": 10,
+      "codechef": 9
+    },
+    {
+      "date": "2025-12-14",
+      "leetcode": 7,
+      "codeforces": 1,
+      "codechef": 4
+    },
+    {
+      "date": "2025-12-15",
+      "leetcode": 10,
+      "codeforces": 2,
+      "codechef": 9
+    },
+    {
+      "date": "2025-12-16",
+      "leetcode": 8,
+      "codeforces": 6,
+      "codechef": 10
+    },
+    {
+      "date": "2025-12-17",
+      "leetcode": 4,
+      "codeforces": 8,
+      "codechef": 4
+    },
+    {
+      "date": "2025-12-18",
+      "leetcode": 7,
+      "codeforces": 7,
+      "codechef": 9
+    },
+    {
+      "date": "2025-12-19",
+      "leetcode": 7,
+      "codeforces": 1,
+      "codechef": 7
+    },
+    {
+      "date": "2025-12-20",
+      "leetcode": 10,
+      "codeforces": 2,
+      "codechef": 3
+    },
+    {
+      "date": "2025-12-21",
+      "leetcode": 5,
+      "codeforces": 4,
+      "codechef": 3
+    },
+    {
+      "date": "2025-12-22",
+      "leetcode": 8,
+      "codeforces": 3,
+      "codechef": 3
+    },
+    {
+      "date": "2025-12-23",
+      "leetcode": 1,
+      "codeforces": 5,
+      "codechef": 9
+    },
+    {
+      "date": "2025-12-24",
+      "leetcode": 2,
+      "codeforces": 1,
+      "codechef": 8
+    },
+    {
+      "date": "2025-12-25",
+      "leetcode": 4,
+      "codeforces": 10,
+      "codechef": 5
+    },
+    {
+      "date": "2025-12-26",
+      "leetcode": 5,
+      "codeforces": 1,
+      "codechef": 6
+    },
+    {
+      "date": "2025-12-27",
+      "leetcode": 9,
+      "codeforces": 2,
+      "codechef": 3
+    },
+    {
+      "date": "2025-12-28",
+      "leetcode": 2,
+      "codeforces": 1,
+      "codechef": 4
+    },
+    {
+      "date": "2025-12-29",
+      "leetcode": 10,
+      "codeforces": 2,
+      "codechef": 6
+    },
+    {
+      "date": "2025-12-30",
+      "leetcode": 1,
+      "codeforces": 8,
+      "codechef": 7
+    },
+    {
+      "date": "2025-12-31",
+      "leetcode": 5,
+      "codeforces": 9,
+      "codechef": 10
+    }
+  ]
+}

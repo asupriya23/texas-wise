@@ -1,0 +1,48 @@
+.
+├── README.md
+├── directory_structure.txt
+├── eslint.config.js
+├── index.html
+
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── public
+│   └── data
+│       ├── codechefData.json
+│       ├── codeforcesData.json
+│       ├── leetcodeData.json
+│       └── mockData.json
+├── src
+│   ├── App.tsx
+│   ├── components
+│   │   ├── ActivityDashboard.tsx
+│   │   ├── ContestHistory.tsx
+│   │   ├── HeatMap.tsx
+│   │   ├── NewsArticle.tsx
+│   │   └── RatingGraph.tsx
+│   ├── index.css
+│   ├── lib
+│   │   ├── ThemeContext.tsx
+│   │   ├── codechefDataGeneration.js
+│   │   ├── codeforcesDataGeneration.js
+│   │   ├── leetcodeDataGeneration.js
+│   │   ├── mockDataGeneration.js
+│   │   └── supabase.ts
+│   ├── main.tsx
+│   ├── pages
+│   │   ├── Contests.tsx
+│   │   ├── Login.tsx
+│   │   ├── MainPage.tsx
+│   │   ├── Newsletter.tsx
+│   │   ├── Problems.tsx
+│   │   ├── ProfileForm.tsx
+│   │   └── ProfilePage.tsx
+│   └── vite-env.d.ts
+├── tailwind.config.js
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+└── vite.config.ts
+
+784 directories, 2966 files

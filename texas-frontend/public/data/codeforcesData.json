@@ -1,0 +1,9109 @@
+[
+  {
+    "date": "2025-01-01",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 2900,
+        "problemCode": "982L",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2600,
+        "problemCode": "366Y",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1200,
+        "problemCode": "523D",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1500,
+        "problemCode": "954O",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2900,
+        "problemCode": "306R",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-01-02",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 3000,
+        "problemCode": "725C",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3400,
+        "problemCode": "635Z",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1900,
+        "problemCode": "484V",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2000,
+        "problemCode": "682W",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3100,
+        "problemCode": "728Q",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-01-03",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 1000,
+        "problemCode": "269L",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2700,
+        "problemCode": "281V",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2500,
+        "problemCode": "412P",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3100,
+        "problemCode": "264X",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3000,
+        "problemCode": "573W",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1400,
+        "problemCode": "988P",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3300,
+        "problemCode": "520O",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3100,
+        "problemCode": "784K",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-01-04",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "221R",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2500,
+        "problemCode": "773I",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2500,
+        "problemCode": "805U",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2100,
+        "problemCode": "342U",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3200,
+        "problemCode": "871F",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1800,
+        "problemCode": "518B",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-01-05",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 3000,
+        "problemCode": "248E",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1200,
+        "problemCode": "808M",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2900,
+        "problemCode": "848S",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1100,
+        "problemCode": "341C",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3200,
+        "problemCode": "877G",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2800,
+        "problemCode": "141X",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1000,
+        "problemCode": "920E",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-01-06",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-01-07",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-01-08",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 3300,
+        "problemCode": "104Y",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2400,
+        "problemCode": "223I",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2800,
+        "problemCode": "653F",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 900,
+        "problemCode": "493Z",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2700,
+        "problemCode": "349D",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1900,
+        "problemCode": "669W",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-01-09",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 2300,
+        "problemCode": "697B",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2700,
+        "problemCode": "362A",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3000,
+        "problemCode": "223H",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1200,
+        "problemCode": "218O",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2900,
+        "problemCode": "576M",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2400,
+        "problemCode": "505K",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2800,
+        "problemCode": "739V",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2600,
+        "problemCode": "970P",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-01-10",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-01-11",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 1800,
+        "problemCode": "975N",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-01-12",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 2400,
+        "problemCode": "834S",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3000,
+        "problemCode": "409P",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2100,
+        "problemCode": "814Z",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-01-13",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 3400,
+        "problemCode": "574I",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3500,
+        "problemCode": "329Z",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-01-14",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 3500,
+        "problemCode": "953Z",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-01-15",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 2000,
+        "problemCode": "750X",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-01-16",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 1400,
+        "problemCode": "419O",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3200,
+        "problemCode": "162G",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-01-17",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 2500,
+        "problemCode": "314G",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2900,
+        "problemCode": "344L",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2000,
+        "problemCode": "181D",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2400,
+        "problemCode": "393F",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2800,
+        "problemCode": "112T",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-01-18",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 2700,
+        "problemCode": "130X",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3300,
+        "problemCode": "516Y",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2600,
+        "problemCode": "754I",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2300,
+        "problemCode": "719N",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2300,
+        "problemCode": "731O",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2300,
+        "problemCode": "911Y",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1900,
+        "problemCode": "664I",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1900,
+        "problemCode": "927K",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-01-19",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 1800,
+        "problemCode": "126M",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 800,
+        "problemCode": "750S",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1100,
+        "problemCode": "754K",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1900,
+        "problemCode": "145K",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-01-20",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2800,
+        "problemCode": "626B",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2000,
+        "problemCode": "940D",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-01-21",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-01-22",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 2400,
+        "problemCode": "349P",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-01-23",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 2800,
+        "problemCode": "716D",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 900,
+        "problemCode": "471E",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3200,
+        "problemCode": "684T",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1800,
+        "problemCode": "890Y",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-01-24",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-01-25",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 2400,
+        "problemCode": "978C",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1300,
+        "problemCode": "942C",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3000,
+        "problemCode": "120B",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1800,
+        "problemCode": "101K",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2400,
+        "problemCode": "758Q",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2400,
+        "problemCode": "545H",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3100,
+        "problemCode": "882R",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1600,
+        "problemCode": "810A",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-01-26",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 2800,
+        "problemCode": "795T",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 800,
+        "problemCode": "933Z",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1500,
+        "problemCode": "729Q",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2300,
+        "problemCode": "330N",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 900,
+        "problemCode": "940P",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2000,
+        "problemCode": "672B",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3000,
+        "problemCode": "272C",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2600,
+        "problemCode": "560W",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-01-27",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 2600,
+        "problemCode": "129E",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3300,
+        "problemCode": "645N",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1500,
+        "problemCode": "488B",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2200,
+        "problemCode": "669A",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1200,
+        "problemCode": "954Q",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1200,
+        "problemCode": "543I",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-01-28",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2800,
+        "problemCode": "842G",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3500,
+        "problemCode": "585N",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-01-29",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 2400,
+        "problemCode": "688U",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-01-30",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 3000,
+        "problemCode": "974F",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2500,
+        "problemCode": "936W",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1100,
+        "problemCode": "220I",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1500,
+        "problemCode": "540B",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-01-31",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 3500,
+        "problemCode": "259F",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1300,
+        "problemCode": "464G",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3100,
+        "problemCode": "490K",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2100,
+        "problemCode": "372C",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-02-01",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 1300,
+        "problemCode": "283C",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2300,
+        "problemCode": "653D",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3100,
+        "problemCode": "130C",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1300,
+        "problemCode": "423Z",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-02-02",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 2400,
+        "problemCode": "248E",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 800,
+        "problemCode": "604E",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 800,
+        "problemCode": "310N",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3500,
+        "problemCode": "740X",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3000,
+        "problemCode": "875L",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1200,
+        "problemCode": "357K",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1300,
+        "problemCode": "644H",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-02-03",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 3200,
+        "problemCode": "505B",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2200,
+        "problemCode": "712Y",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3300,
+        "problemCode": "772C",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3300,
+        "problemCode": "481B",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2200,
+        "problemCode": "506M",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1600,
+        "problemCode": "849T",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1900,
+        "problemCode": "769Y",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2800,
+        "problemCode": "839Y",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-02-04",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 1600,
+        "problemCode": "399H",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2500,
+        "problemCode": "980M",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-02-05",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2500,
+        "problemCode": "469F",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1300,
+        "problemCode": "313C",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-02-06",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 1600,
+        "problemCode": "950A",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2700,
+        "problemCode": "449P",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2700,
+        "problemCode": "560E",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-02-07",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 3100,
+        "problemCode": "179J",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 900,
+        "problemCode": "690Z",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3400,
+        "problemCode": "668Y",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 900,
+        "problemCode": "934S",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-02-08",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "182B",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-02-09",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 1300,
+        "problemCode": "846Z",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2700,
+        "problemCode": "341A",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2400,
+        "problemCode": "739H",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2200,
+        "problemCode": "182N",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-02-10",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 2500,
+        "problemCode": "483S",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 800,
+        "problemCode": "791E",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3500,
+        "problemCode": "288F",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2200,
+        "problemCode": "479R",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2100,
+        "problemCode": "964G",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3200,
+        "problemCode": "727J",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1300,
+        "problemCode": "151Z",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2500,
+        "problemCode": "249S",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-02-11",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 3200,
+        "problemCode": "421R",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3400,
+        "problemCode": "533I",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2200,
+        "problemCode": "909E",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2100,
+        "problemCode": "418S",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-02-12",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "582Q",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-02-13",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 2800,
+        "problemCode": "482S",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-02-14",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 3000,
+        "problemCode": "135Z",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1500,
+        "problemCode": "571C",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3500,
+        "problemCode": "217O",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2800,
+        "problemCode": "210W",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-02-15",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 2300,
+        "problemCode": "617K",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1100,
+        "problemCode": "417E",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2500,
+        "problemCode": "555N",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2600,
+        "problemCode": "565S",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2700,
+        "problemCode": "265M",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-02-16",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 1200,
+        "problemCode": "273C",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1700,
+        "problemCode": "917S",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1800,
+        "problemCode": "837G",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 800,
+        "problemCode": "180O",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1100,
+        "problemCode": "759I",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1800,
+        "problemCode": "229P",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-02-17",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 1600,
+        "problemCode": "540U",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2700,
+        "problemCode": "110U",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2500,
+        "problemCode": "815T",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-02-18",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 1700,
+        "problemCode": "390U",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1000,
+        "problemCode": "404D",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-02-19",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "526A",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1400,
+        "problemCode": "540S",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1800,
+        "problemCode": "671W",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3300,
+        "problemCode": "980S",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2700,
+        "problemCode": "461I",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2200,
+        "problemCode": "199F",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3500,
+        "problemCode": "525D",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-02-20",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 1200,
+        "problemCode": "521W",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2800,
+        "problemCode": "249K",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2800,
+        "problemCode": "953L",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1400,
+        "problemCode": "432N",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1400,
+        "problemCode": "974Q",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3200,
+        "problemCode": "683O",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-02-21",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 2200,
+        "problemCode": "612K",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2100,
+        "problemCode": "671O",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2600,
+        "problemCode": "450T",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3100,
+        "problemCode": "807V",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3500,
+        "problemCode": "539E",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-02-22",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "553O",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2800,
+        "problemCode": "211G",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 900,
+        "problemCode": "245J",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2400,
+        "problemCode": "693O",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2000,
+        "problemCode": "746T",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2900,
+        "problemCode": "232M",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-02-23",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 3000,
+        "problemCode": "922F",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-02-24",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 1600,
+        "problemCode": "691V",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1800,
+        "problemCode": "650B",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1100,
+        "problemCode": "887Z",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3400,
+        "problemCode": "508O",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1100,
+        "problemCode": "929O",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1100,
+        "problemCode": "413K",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2200,
+        "problemCode": "907O",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2300,
+        "problemCode": "539Z",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-02-25",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 1100,
+        "problemCode": "405L",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1200,
+        "problemCode": "830S",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-02-26",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 1300,
+        "problemCode": "788V",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1400,
+        "problemCode": "340S",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1700,
+        "problemCode": "627P",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-02-27",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1900,
+        "problemCode": "514F",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3100,
+        "problemCode": "425U",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 900,
+        "problemCode": "646O",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2500,
+        "problemCode": "487U",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3500,
+        "problemCode": "247V",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-02-28",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 3100,
+        "problemCode": "792L",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2400,
+        "problemCode": "991U",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3500,
+        "problemCode": "272Q",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1000,
+        "problemCode": "779J",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3300,
+        "problemCode": "451Q",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1400,
+        "problemCode": "714B",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-02-29",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 900,
+        "problemCode": "397I",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2800,
+        "problemCode": "487F",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-03-01",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "714M",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1200,
+        "problemCode": "592V",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2000,
+        "problemCode": "305D",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-03-02",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 3000,
+        "problemCode": "110O",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2900,
+        "problemCode": "763Q",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 800,
+        "problemCode": "642T",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3200,
+        "problemCode": "553B",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2800,
+        "problemCode": "824C",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1500,
+        "problemCode": "524L",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-03-03",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 900,
+        "problemCode": "230E",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2600,
+        "problemCode": "925Z",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1600,
+        "problemCode": "320O",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1500,
+        "problemCode": "387K",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 900,
+        "problemCode": "425X",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-03-04",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "422L",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3200,
+        "problemCode": "764F",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-03-05",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 3200,
+        "problemCode": "866P",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2700,
+        "problemCode": "275D",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1300,
+        "problemCode": "764S",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1200,
+        "problemCode": "350E",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-03-06",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-03-07",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1200,
+        "problemCode": "225F",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3400,
+        "problemCode": "999S",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3500,
+        "problemCode": "744Z",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1300,
+        "problemCode": "194W",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3400,
+        "problemCode": "292Z",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-03-08",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-03-09",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 1700,
+        "problemCode": "947V",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2500,
+        "problemCode": "550U",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2800,
+        "problemCode": "794E",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1800,
+        "problemCode": "322G",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3300,
+        "problemCode": "342I",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3400,
+        "problemCode": "853U",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2700,
+        "problemCode": "821B",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-03-10",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 3000,
+        "problemCode": "256L",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2600,
+        "problemCode": "924K",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2000,
+        "problemCode": "181U",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2100,
+        "problemCode": "989W",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2000,
+        "problemCode": "148A",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1500,
+        "problemCode": "917K",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1600,
+        "problemCode": "420R",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1000,
+        "problemCode": "472Z",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-03-11",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 3100,
+        "problemCode": "147P",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3100,
+        "problemCode": "280B",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 800,
+        "problemCode": "556C",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1700,
+        "problemCode": "606X",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2000,
+        "problemCode": "620T",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-03-12",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 2500,
+        "problemCode": "261F",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2000,
+        "problemCode": "602X",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1400,
+        "problemCode": "357Y",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3300,
+        "problemCode": "739U",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3200,
+        "problemCode": "710E",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-03-13",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 1700,
+        "problemCode": "597K",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-03-14",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 1100,
+        "problemCode": "752S",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2700,
+        "problemCode": "624X",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1500,
+        "problemCode": "153X",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1400,
+        "problemCode": "542T",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3000,
+        "problemCode": "327J",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1000,
+        "problemCode": "207W",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-03-15",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 1300,
+        "problemCode": "474P",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3500,
+        "problemCode": "716U",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-03-16",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 900,
+        "problemCode": "115X",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3000,
+        "problemCode": "741L",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1800,
+        "problemCode": "291D",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3500,
+        "problemCode": "296I",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3100,
+        "problemCode": "772M",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3000,
+        "problemCode": "521J",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-03-17",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 2000,
+        "problemCode": "420Z",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-03-18",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 2700,
+        "problemCode": "294C",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1100,
+        "problemCode": "405F",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2300,
+        "problemCode": "230A",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1700,
+        "problemCode": "270A",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-03-19",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 3500,
+        "problemCode": "160R",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 900,
+        "problemCode": "560Z",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1500,
+        "problemCode": "112E",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1200,
+        "problemCode": "497B",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 800,
+        "problemCode": "572F",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3200,
+        "problemCode": "319R",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-03-20",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-03-21",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2600,
+        "problemCode": "470V",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2500,
+        "problemCode": "309T",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-03-22",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 900,
+        "problemCode": "324T",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1300,
+        "problemCode": "759H",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2700,
+        "problemCode": "683C",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3400,
+        "problemCode": "270J",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2100,
+        "problemCode": "108M",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-03-23",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 3500,
+        "problemCode": "175E",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 800,
+        "problemCode": "244H",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1300,
+        "problemCode": "756X",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3100,
+        "problemCode": "844U",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-03-24",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1300,
+        "problemCode": "163B",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1200,
+        "problemCode": "695C",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2900,
+        "problemCode": "521C",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1400,
+        "problemCode": "574V",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1400,
+        "problemCode": "289D",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-03-25",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 1100,
+        "problemCode": "960A",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2600,
+        "problemCode": "943C",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2100,
+        "problemCode": "595H",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2800,
+        "problemCode": "573A",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 800,
+        "problemCode": "338F",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2900,
+        "problemCode": "764W",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1500,
+        "problemCode": "253M",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3200,
+        "problemCode": "657O",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-03-26",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 1100,
+        "problemCode": "318G",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3400,
+        "problemCode": "460X",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3000,
+        "problemCode": "376B",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1600,
+        "problemCode": "664P",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1600,
+        "problemCode": "235P",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1300,
+        "problemCode": "904K",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1400,
+        "problemCode": "673D",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-03-27",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 1500,
+        "problemCode": "239N",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1600,
+        "problemCode": "141F",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1500,
+        "problemCode": "268N",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2300,
+        "problemCode": "197B",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1900,
+        "problemCode": "893J",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1900,
+        "problemCode": "760L",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-03-28",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 3200,
+        "problemCode": "605U",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-03-29",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1600,
+        "problemCode": "632R",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1200,
+        "problemCode": "331S",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2500,
+        "problemCode": "189A",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1200,
+        "problemCode": "442E",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3300,
+        "problemCode": "523P",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-03-30",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 2100,
+        "problemCode": "649Y",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3300,
+        "problemCode": "128U",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1900,
+        "problemCode": "465S",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2000,
+        "problemCode": "290G",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-03-31",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 2900,
+        "problemCode": "491M",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-04-01",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 2200,
+        "problemCode": "756L",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 800,
+        "problemCode": "661K",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1500,
+        "problemCode": "510V",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2400,
+        "problemCode": "427Q",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1400,
+        "problemCode": "561U",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3200,
+        "problemCode": "398L",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1500,
+        "problemCode": "758U",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-04-02",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 1200,
+        "problemCode": "605K",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1800,
+        "problemCode": "905Q",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2800,
+        "problemCode": "316F",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3000,
+        "problemCode": "402X",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1200,
+        "problemCode": "526W",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3000,
+        "problemCode": "603H",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1100,
+        "problemCode": "136V",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-04-03",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 2900,
+        "problemCode": "956H",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3500,
+        "problemCode": "783Q",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1900,
+        "problemCode": "880U",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1800,
+        "problemCode": "432G",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1000,
+        "problemCode": "479B",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2000,
+        "problemCode": "800L",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-04-04",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2000,
+        "problemCode": "800G",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1400,
+        "problemCode": "695X",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-04-05",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-04-06",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-04-07",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 1200,
+        "problemCode": "823G",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1100,
+        "problemCode": "636X",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3200,
+        "problemCode": "192R",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2100,
+        "problemCode": "761A",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1900,
+        "problemCode": "114C",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2900,
+        "problemCode": "569B",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-04-08",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 1800,
+        "problemCode": "821Q",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3000,
+        "problemCode": "479Y",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2900,
+        "problemCode": "165W",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1600,
+        "problemCode": "667O",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2300,
+        "problemCode": "375Y",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2500,
+        "problemCode": "102K",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3100,
+        "problemCode": "679J",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-04-09",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 2000,
+        "problemCode": "310Y",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2900,
+        "problemCode": "364M",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1200,
+        "problemCode": "385Y",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1200,
+        "problemCode": "849W",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2200,
+        "problemCode": "719A",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2200,
+        "problemCode": "439Z",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3300,
+        "problemCode": "771R",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2400,
+        "problemCode": "195J",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-04-10",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1500,
+        "problemCode": "177K",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2200,
+        "problemCode": "244Q",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3100,
+        "problemCode": "428N",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1500,
+        "problemCode": "315A",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2200,
+        "problemCode": "619J",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-04-11",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 2400,
+        "problemCode": "718J",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2600,
+        "problemCode": "977Y",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3000,
+        "problemCode": "719K",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-04-12",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 1400,
+        "problemCode": "104T",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3400,
+        "problemCode": "369H",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-04-13",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2900,
+        "problemCode": "711X",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2200,
+        "problemCode": "318A",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-04-14",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 1200,
+        "problemCode": "382F",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3000,
+        "problemCode": "412X",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 900,
+        "problemCode": "519F",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1500,
+        "problemCode": "717U",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2300,
+        "problemCode": "555N",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3200,
+        "problemCode": "998M",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-04-15",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 3200,
+        "problemCode": "260B",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1100,
+        "problemCode": "725W",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1500,
+        "problemCode": "969P",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1500,
+        "problemCode": "815J",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1300,
+        "problemCode": "853Q",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3500,
+        "problemCode": "829L",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-04-16",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 900,
+        "problemCode": "726E",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1000,
+        "problemCode": "587N",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3100,
+        "problemCode": "112V",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-04-17",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 900,
+        "problemCode": "658H",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1800,
+        "problemCode": "636V",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-04-18",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "507I",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3300,
+        "problemCode": "313M",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2600,
+        "problemCode": "480A",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2500,
+        "problemCode": "886O",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3200,
+        "problemCode": "141O",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-04-19",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 2400,
+        "problemCode": "820Q",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3100,
+        "problemCode": "851E",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3300,
+        "problemCode": "329G",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2800,
+        "problemCode": "994Z",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2900,
+        "problemCode": "623K",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2800,
+        "problemCode": "901Z",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1700,
+        "problemCode": "428N",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 800,
+        "problemCode": "196A",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-04-20",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2600,
+        "problemCode": "324X",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2200,
+        "problemCode": "881U",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-04-21",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 2800,
+        "problemCode": "944R",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1500,
+        "problemCode": "250U",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2400,
+        "problemCode": "961F",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1700,
+        "problemCode": "777T",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1100,
+        "problemCode": "617R",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2000,
+        "problemCode": "639R",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2100,
+        "problemCode": "938R",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-04-22",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 1500,
+        "problemCode": "878Y",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2700,
+        "problemCode": "922D",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1600,
+        "problemCode": "525U",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-04-23",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-04-24",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 3000,
+        "problemCode": "538R",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-04-25",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-04-26",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "115U",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 900,
+        "problemCode": "494F",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3000,
+        "problemCode": "731Y",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1700,
+        "problemCode": "402D",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2100,
+        "problemCode": "355H",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1200,
+        "problemCode": "951N",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1000,
+        "problemCode": "592B",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3400,
+        "problemCode": "949C",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-04-27",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 1700,
+        "problemCode": "376L",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1800,
+        "problemCode": "673L",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1900,
+        "problemCode": "460X",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-04-28",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "479W",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-04-29",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1400,
+        "problemCode": "894W",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1900,
+        "problemCode": "591Q",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2200,
+        "problemCode": "882N",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1400,
+        "problemCode": "937R",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1900,
+        "problemCode": "410H",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-04-30",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 1900,
+        "problemCode": "776D",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3000,
+        "problemCode": "913Q",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-05-01",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 1200,
+        "problemCode": "417Q",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-05-02",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-05-03",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 2100,
+        "problemCode": "826L",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2600,
+        "problemCode": "533K",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3300,
+        "problemCode": "553H",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2100,
+        "problemCode": "832E",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2400,
+        "problemCode": "861G",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3200,
+        "problemCode": "559T",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-05-04",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-05-05",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 3500,
+        "problemCode": "611Y",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 900,
+        "problemCode": "987Q",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 900,
+        "problemCode": "967B",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1800,
+        "problemCode": "147A",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2200,
+        "problemCode": "689E",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3100,
+        "problemCode": "158S",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-05-06",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 2900,
+        "problemCode": "158R",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1400,
+        "problemCode": "969W",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2600,
+        "problemCode": "596T",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-05-07",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 3100,
+        "problemCode": "110O",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 800,
+        "problemCode": "698Z",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2100,
+        "problemCode": "557K",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2600,
+        "problemCode": "709W",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3300,
+        "problemCode": "744V",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2800,
+        "problemCode": "605O",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1500,
+        "problemCode": "499P",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-05-08",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "736L",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2100,
+        "problemCode": "126R",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1100,
+        "problemCode": "361S",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-05-09",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 2900,
+        "problemCode": "875Q",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1100,
+        "problemCode": "420R",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 800,
+        "problemCode": "291I",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1300,
+        "problemCode": "901L",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3000,
+        "problemCode": "292H",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 900,
+        "problemCode": "311I",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2900,
+        "problemCode": "823B",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1500,
+        "problemCode": "119G",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-05-10",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 1200,
+        "problemCode": "852G",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3500,
+        "problemCode": "680O",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2000,
+        "problemCode": "514F",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1000,
+        "problemCode": "372A",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2400,
+        "problemCode": "128K",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1400,
+        "problemCode": "688F",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-05-11",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 3100,
+        "problemCode": "829K",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1000,
+        "problemCode": "509J",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1600,
+        "problemCode": "225M",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 900,
+        "problemCode": "655S",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2200,
+        "problemCode": "883U",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-05-12",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 2900,
+        "problemCode": "648T",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1400,
+        "problemCode": "117D",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2600,
+        "problemCode": "111C",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2900,
+        "problemCode": "191J",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2200,
+        "problemCode": "680B",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1000,
+        "problemCode": "223Y",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2800,
+        "problemCode": "258U",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3300,
+        "problemCode": "651J",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-05-13",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 3100,
+        "problemCode": "984U",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1200,
+        "problemCode": "493K",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3300,
+        "problemCode": "274X",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3400,
+        "problemCode": "155J",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2100,
+        "problemCode": "401Y",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1300,
+        "problemCode": "483P",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-05-14",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 1400,
+        "problemCode": "329A",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 900,
+        "problemCode": "729Y",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1500,
+        "problemCode": "168B",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2000,
+        "problemCode": "173A",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-05-15",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 1900,
+        "problemCode": "608T",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2000,
+        "problemCode": "213L",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 800,
+        "problemCode": "446G",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2200,
+        "problemCode": "212E",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1600,
+        "problemCode": "594A",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2500,
+        "problemCode": "980D",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1300,
+        "problemCode": "918U",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2600,
+        "problemCode": "445U",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-05-16",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 1300,
+        "problemCode": "634E",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2500,
+        "problemCode": "644I",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-05-17",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2900,
+        "problemCode": "250N",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1000,
+        "problemCode": "400Z",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-05-18",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 900,
+        "problemCode": "614S",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-05-19",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 900,
+        "problemCode": "884R",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2700,
+        "problemCode": "419O",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3400,
+        "problemCode": "976V",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2100,
+        "problemCode": "487V",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3400,
+        "problemCode": "302Q",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3200,
+        "problemCode": "365D",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3300,
+        "problemCode": "507K",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1200,
+        "problemCode": "556E",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-05-20",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 2100,
+        "problemCode": "239N",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-05-21",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 3100,
+        "problemCode": "121H",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1300,
+        "problemCode": "575H",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3200,
+        "problemCode": "910M",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2900,
+        "problemCode": "491W",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1200,
+        "problemCode": "754M",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-05-22",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 3100,
+        "problemCode": "100D",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2400,
+        "problemCode": "319C",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1900,
+        "problemCode": "988I",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-05-23",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1800,
+        "problemCode": "522Q",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1400,
+        "problemCode": "886D",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3500,
+        "problemCode": "261L",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2600,
+        "problemCode": "162J",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1200,
+        "problemCode": "548V",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-05-24",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2100,
+        "problemCode": "696T",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3300,
+        "problemCode": "997U",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-05-25",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 3000,
+        "problemCode": "335K",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-05-27",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 2200,
+        "problemCode": "751X",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-05-28",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 1900,
+        "problemCode": "230Q",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2500,
+        "problemCode": "246L",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1000,
+        "problemCode": "268D",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-05-29",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 1700,
+        "problemCode": "302Y",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 900,
+        "problemCode": "799G",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3500,
+        "problemCode": "758I",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2200,
+        "problemCode": "473A",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-05-30",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 1400,
+        "problemCode": "255S",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2500,
+        "problemCode": "196K",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2800,
+        "problemCode": "400K",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1200,
+        "problemCode": "528X",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1100,
+        "problemCode": "814G",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2100,
+        "problemCode": "492W",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1700,
+        "problemCode": "403D",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-05-31",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 3100,
+        "problemCode": "581A",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1700,
+        "problemCode": "689Z",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3200,
+        "problemCode": "793P",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1000,
+        "problemCode": "568M",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3300,
+        "problemCode": "495X",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-06-01",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 900,
+        "problemCode": "504U",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2800,
+        "problemCode": "463V",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3300,
+        "problemCode": "557G",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2800,
+        "problemCode": "442N",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2400,
+        "problemCode": "792J",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3100,
+        "problemCode": "612X",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-06-02",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "467U",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2200,
+        "problemCode": "974D",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3300,
+        "problemCode": "114L",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1300,
+        "problemCode": "740F",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2500,
+        "problemCode": "839L",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-06-03",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 900,
+        "problemCode": "601N",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-06-04",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 3400,
+        "problemCode": "886X",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-06-05",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 3000,
+        "problemCode": "128R",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3400,
+        "problemCode": "996M",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 800,
+        "problemCode": "517A",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1700,
+        "problemCode": "412W",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2000,
+        "problemCode": "875E",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3200,
+        "problemCode": "153T",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-06-06",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 3400,
+        "problemCode": "324M",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2700,
+        "problemCode": "501V",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1300,
+        "problemCode": "956L",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2000,
+        "problemCode": "988N",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3000,
+        "problemCode": "312O",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1200,
+        "problemCode": "742X",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1200,
+        "problemCode": "217K",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-06-07",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 1300,
+        "problemCode": "250P",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-06-08",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-06-09",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "899K",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-06-10",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-06-11",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2700,
+        "problemCode": "767D",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1500,
+        "problemCode": "392Z",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-06-12",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 1800,
+        "problemCode": "887B",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-06-13",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-06-14",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-06-15",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 1800,
+        "problemCode": "913P",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3500,
+        "problemCode": "913A",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1700,
+        "problemCode": "813T",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2200,
+        "problemCode": "728Y",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2300,
+        "problemCode": "795D",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2000,
+        "problemCode": "198M",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2800,
+        "problemCode": "405C",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2000,
+        "problemCode": "618X",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-06-16",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 1800,
+        "problemCode": "988G",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2500,
+        "problemCode": "574Z",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-06-17",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 1800,
+        "problemCode": "398B",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1800,
+        "problemCode": "387J",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 900,
+        "problemCode": "457T",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2300,
+        "problemCode": "835U",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2300,
+        "problemCode": "184L",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2200,
+        "problemCode": "733X",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1800,
+        "problemCode": "468R",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-06-18",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 3000,
+        "problemCode": "136O",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2600,
+        "problemCode": "176I",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1200,
+        "problemCode": "637H",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3500,
+        "problemCode": "180Q",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3300,
+        "problemCode": "132K",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3400,
+        "problemCode": "365R",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1500,
+        "problemCode": "432S",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1800,
+        "problemCode": "518D",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-06-19",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 1900,
+        "problemCode": "411X",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2600,
+        "problemCode": "785Z",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1900,
+        "problemCode": "320A",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3100,
+        "problemCode": "625L",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3300,
+        "problemCode": "143F",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1200,
+        "problemCode": "937L",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3000,
+        "problemCode": "695G",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-06-20",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 2300,
+        "problemCode": "322V",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1200,
+        "problemCode": "753U",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1900,
+        "problemCode": "690N",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1900,
+        "problemCode": "776F",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-06-21",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2200,
+        "problemCode": "440M",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1900,
+        "problemCode": "389X",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-06-22",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 1000,
+        "problemCode": "871A",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2400,
+        "problemCode": "383H",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 900,
+        "problemCode": "201M",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3000,
+        "problemCode": "190U",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2900,
+        "problemCode": "308Q",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 800,
+        "problemCode": "956G",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1800,
+        "problemCode": "559B",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-06-23",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 1800,
+        "problemCode": "103K",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1600,
+        "problemCode": "647U",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-06-24",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 2800,
+        "problemCode": "201W",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2700,
+        "problemCode": "143U",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2100,
+        "problemCode": "871X",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-06-25",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 2000,
+        "problemCode": "572P",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3500,
+        "problemCode": "248S",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2300,
+        "problemCode": "149P",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1200,
+        "problemCode": "978C",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1500,
+        "problemCode": "657U",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-06-26",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2700,
+        "problemCode": "434V",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1700,
+        "problemCode": "424U",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-06-27",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 3100,
+        "problemCode": "857Y",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1300,
+        "problemCode": "392P",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3200,
+        "problemCode": "539N",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1900,
+        "problemCode": "814P",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 900,
+        "problemCode": "491D",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1700,
+        "problemCode": "716R",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2100,
+        "problemCode": "846G",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-06-28",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 3400,
+        "problemCode": "356D",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1700,
+        "problemCode": "187E",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2000,
+        "problemCode": "981E",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2100,
+        "problemCode": "768D",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1800,
+        "problemCode": "897V",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1800,
+        "problemCode": "862T",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1800,
+        "problemCode": "243X",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-06-29",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 2700,
+        "problemCode": "824G",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2600,
+        "problemCode": "684R",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3200,
+        "problemCode": "994Q",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1400,
+        "problemCode": "473H",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-06-30",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-07-01",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-07-02",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 2300,
+        "problemCode": "482X",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2000,
+        "problemCode": "716Q",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1100,
+        "problemCode": "527C",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2200,
+        "problemCode": "969W",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-07-03",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1800,
+        "problemCode": "732T",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1800,
+        "problemCode": "553Y",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3500,
+        "problemCode": "473F",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 900,
+        "problemCode": "670F",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1200,
+        "problemCode": "480U",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-07-04",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 2800,
+        "problemCode": "927P",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-07-05",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 1700,
+        "problemCode": "955Q",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1200,
+        "problemCode": "838T",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3500,
+        "problemCode": "478K",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2700,
+        "problemCode": "662D",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 900,
+        "problemCode": "383O",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1900,
+        "problemCode": "713F",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2300,
+        "problemCode": "827D",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2600,
+        "problemCode": "398S",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-07-06",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 3300,
+        "problemCode": "634C",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-07-07",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 1700,
+        "problemCode": "689J",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-07-08",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 1200,
+        "problemCode": "468G",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1500,
+        "problemCode": "109G",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1400,
+        "problemCode": "880I",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-07-09",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 1500,
+        "problemCode": "935W",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2600,
+        "problemCode": "389I",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1900,
+        "problemCode": "579X",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-07-10",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 2600,
+        "problemCode": "725W",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2700,
+        "problemCode": "167Y",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2800,
+        "problemCode": "307B",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3200,
+        "problemCode": "911X",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3400,
+        "problemCode": "623N",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-07-11",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 2500,
+        "problemCode": "548G",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-07-12",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 2100,
+        "problemCode": "340C",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3200,
+        "problemCode": "867O",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1000,
+        "problemCode": "257R",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-07-13",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1100,
+        "problemCode": "417L",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1000,
+        "problemCode": "634T",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2900,
+        "problemCode": "424N",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1000,
+        "problemCode": "425F",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1600,
+        "problemCode": "644U",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-07-14",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 900,
+        "problemCode": "813K",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3400,
+        "problemCode": "196U",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 900,
+        "problemCode": "580U",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 900,
+        "problemCode": "642Q",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2400,
+        "problemCode": "764Q",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1000,
+        "problemCode": "991Q",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 900,
+        "problemCode": "515B",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3500,
+        "problemCode": "993Y",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-07-15",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 1200,
+        "problemCode": "972G",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-07-16",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2700,
+        "problemCode": "428X",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2700,
+        "problemCode": "919O",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-07-17",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 1700,
+        "problemCode": "867A",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2000,
+        "problemCode": "637L",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2200,
+        "problemCode": "914O",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3300,
+        "problemCode": "880G",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3300,
+        "problemCode": "329N",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2000,
+        "problemCode": "195T",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-07-18",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 2100,
+        "problemCode": "677X",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-07-19",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 1700,
+        "problemCode": "210V",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2700,
+        "problemCode": "219J",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2600,
+        "problemCode": "729J",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3100,
+        "problemCode": "378N",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3300,
+        "problemCode": "708D",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2000,
+        "problemCode": "775P",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-07-20",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 1700,
+        "problemCode": "281T",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2700,
+        "problemCode": "851N",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-07-21",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 3200,
+        "problemCode": "843H",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1300,
+        "problemCode": "154Z",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1200,
+        "problemCode": "548M",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-07-22",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 1400,
+        "problemCode": "256P",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3200,
+        "problemCode": "574E",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1200,
+        "problemCode": "548N",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-07-23",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 1000,
+        "problemCode": "682D",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1000,
+        "problemCode": "932P",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-07-24",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 1500,
+        "problemCode": "204S",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2700,
+        "problemCode": "813N",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-07-25",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 3200,
+        "problemCode": "140T",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1500,
+        "problemCode": "588H",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 900,
+        "problemCode": "459C",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1300,
+        "problemCode": "529T",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 800,
+        "problemCode": "436I",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-07-26",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1300,
+        "problemCode": "795S",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2000,
+        "problemCode": "200F",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1600,
+        "problemCode": "883W",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1700,
+        "problemCode": "532W",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2500,
+        "problemCode": "695X",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-07-27",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 2100,
+        "problemCode": "363M",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3500,
+        "problemCode": "500C",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1500,
+        "problemCode": "894D",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1900,
+        "problemCode": "836R",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-07-28",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 1600,
+        "problemCode": "882I",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-07-29",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 2700,
+        "problemCode": "490R",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2800,
+        "problemCode": "892G",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1400,
+        "problemCode": "748L",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1700,
+        "problemCode": "289Q",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3100,
+        "problemCode": "836B",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1400,
+        "problemCode": "667L",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3200,
+        "problemCode": "272T",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-07-30",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1500,
+        "problemCode": "513G",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1600,
+        "problemCode": "249J",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3400,
+        "problemCode": "257G",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3500,
+        "problemCode": "955R",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2200,
+        "problemCode": "604C",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-07-31",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 1100,
+        "problemCode": "560Z",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1900,
+        "problemCode": "979T",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3100,
+        "problemCode": "936X",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2700,
+        "problemCode": "339Z",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1000,
+        "problemCode": "487A",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1200,
+        "problemCode": "848X",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1000,
+        "problemCode": "456G",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2500,
+        "problemCode": "789N",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-08-01",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 3100,
+        "problemCode": "945Q",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3500,
+        "problemCode": "637W",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3300,
+        "problemCode": "755W",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2900,
+        "problemCode": "799M",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-08-02",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 1600,
+        "problemCode": "429J",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2600,
+        "problemCode": "158Q",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1800,
+        "problemCode": "800Q",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1400,
+        "problemCode": "996Q",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1500,
+        "problemCode": "417D",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1200,
+        "problemCode": "735E",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3000,
+        "problemCode": "194J",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-08-03",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 2900,
+        "problemCode": "289G",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1300,
+        "problemCode": "275X",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1900,
+        "problemCode": "458U",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3500,
+        "problemCode": "475B",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-08-04",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 1700,
+        "problemCode": "156G",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1600,
+        "problemCode": "361H",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1700,
+        "problemCode": "268J",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2500,
+        "problemCode": "574R",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-08-05",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 2300,
+        "problemCode": "147J",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3400,
+        "problemCode": "447V",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1000,
+        "problemCode": "260O",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2000,
+        "problemCode": "411Q",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2900,
+        "problemCode": "521H",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2600,
+        "problemCode": "734U",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1400,
+        "problemCode": "140B",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1200,
+        "problemCode": "737Q",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-08-06",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2200,
+        "problemCode": "630W",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2400,
+        "problemCode": "268V",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-08-07",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "669A",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1900,
+        "problemCode": "975Q",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 900,
+        "problemCode": "706V",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2400,
+        "problemCode": "533N",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2800,
+        "problemCode": "952F",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 800,
+        "problemCode": "504K",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2900,
+        "problemCode": "824G",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2600,
+        "problemCode": "763D",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-08-08",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 2400,
+        "problemCode": "469U",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2200,
+        "problemCode": "450L",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3000,
+        "problemCode": "596R",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3000,
+        "problemCode": "619A",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1300,
+        "problemCode": "663I",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2200,
+        "problemCode": "710K",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-08-09",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 1600,
+        "problemCode": "522W",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2000,
+        "problemCode": "842A",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3500,
+        "problemCode": "667L",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2200,
+        "problemCode": "198A",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 800,
+        "problemCode": "346Z",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2400,
+        "problemCode": "190J",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-08-10",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1800,
+        "problemCode": "169C",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1400,
+        "problemCode": "819B",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2600,
+        "problemCode": "212L",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1700,
+        "problemCode": "881P",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 800,
+        "problemCode": "559G",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-08-11",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 1100,
+        "problemCode": "552C",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-08-12",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 1300,
+        "problemCode": "109U",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1200,
+        "problemCode": "896H",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 900,
+        "problemCode": "896C",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2300,
+        "problemCode": "249F",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1100,
+        "problemCode": "348L",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2500,
+        "problemCode": "149V",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3000,
+        "problemCode": "242F",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1900,
+        "problemCode": "420R",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-08-13",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-08-14",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 3200,
+        "problemCode": "352S",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3500,
+        "problemCode": "762A",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1400,
+        "problemCode": "805H",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2100,
+        "problemCode": "852C",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2900,
+        "problemCode": "618O",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2800,
+        "problemCode": "564H",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2500,
+        "problemCode": "505E",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-08-15",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 3200,
+        "problemCode": "597W",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-08-16",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 1900,
+        "problemCode": "751N",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1900,
+        "problemCode": "477Z",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-08-17",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "640Q",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2800,
+        "problemCode": "995L",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2000,
+        "problemCode": "573I",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1100,
+        "problemCode": "860P",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2000,
+        "problemCode": "345L",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-08-18",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 3500,
+        "problemCode": "593D",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2000,
+        "problemCode": "198T",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1000,
+        "problemCode": "592X",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-08-19",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 2000,
+        "problemCode": "609Q",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3300,
+        "problemCode": "305D",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1400,
+        "problemCode": "260I",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3000,
+        "problemCode": "919I",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2800,
+        "problemCode": "408H",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1600,
+        "problemCode": "830N",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3300,
+        "problemCode": "189Y",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2800,
+        "problemCode": "475U",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-08-20",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1300,
+        "problemCode": "982V",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1600,
+        "problemCode": "784A",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2200,
+        "problemCode": "576N",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2000,
+        "problemCode": "337T",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1000,
+        "problemCode": "163H",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-08-21",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 1500,
+        "problemCode": "986Z",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-08-22",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 2700,
+        "problemCode": "428B",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-08-23",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 1200,
+        "problemCode": "812A",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 900,
+        "problemCode": "738A",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3500,
+        "problemCode": "417B",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-08-24",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 1200,
+        "problemCode": "832E",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2900,
+        "problemCode": "834U",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-08-25",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "920V",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3500,
+        "problemCode": "947B",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2300,
+        "problemCode": "982I",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-08-26",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 900,
+        "problemCode": "982S",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 800,
+        "problemCode": "751Q",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2400,
+        "problemCode": "412F",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-08-27",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-08-28",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 1700,
+        "problemCode": "387V",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-08-29",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 2600,
+        "problemCode": "181E",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 900,
+        "problemCode": "653C",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2900,
+        "problemCode": "504S",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1100,
+        "problemCode": "190R",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3100,
+        "problemCode": "704J",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3500,
+        "problemCode": "122Z",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-08-30",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 2700,
+        "problemCode": "276S",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1400,
+        "problemCode": "527Q",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3200,
+        "problemCode": "957V",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1900,
+        "problemCode": "386O",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2400,
+        "problemCode": "165U",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1900,
+        "problemCode": "561R",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2500,
+        "problemCode": "787F",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-08-31",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 2200,
+        "problemCode": "136O",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3400,
+        "problemCode": "766Z",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2200,
+        "problemCode": "590K",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3100,
+        "problemCode": "347V",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-09-01",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 2600,
+        "problemCode": "306N",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1300,
+        "problemCode": "350L",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1300,
+        "problemCode": "490C",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2600,
+        "problemCode": "347M",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3200,
+        "problemCode": "401U",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1500,
+        "problemCode": "424W",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1000,
+        "problemCode": "796Q",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-09-02",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 1000,
+        "problemCode": "796O",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2200,
+        "problemCode": "867M",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-09-03",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-09-04",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 1200,
+        "problemCode": "144B",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1100,
+        "problemCode": "401D",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 900,
+        "problemCode": "129M",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1500,
+        "problemCode": "485R",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-09-05",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 1900,
+        "problemCode": "378I",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2900,
+        "problemCode": "880E",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3400,
+        "problemCode": "818Q",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2600,
+        "problemCode": "140U",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1000,
+        "problemCode": "538F",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2300,
+        "problemCode": "734E",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-09-06",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 1500,
+        "problemCode": "701T",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1700,
+        "problemCode": "961R",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2200,
+        "problemCode": "191N",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3200,
+        "problemCode": "873W",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1100,
+        "problemCode": "429D",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3000,
+        "problemCode": "954I",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-09-07",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-09-08",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 1000,
+        "problemCode": "276S",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2300,
+        "problemCode": "646K",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2800,
+        "problemCode": "823L",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2500,
+        "problemCode": "838Q",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1400,
+        "problemCode": "809U",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1100,
+        "problemCode": "222O",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3000,
+        "problemCode": "655X",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-09-09",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1300,
+        "problemCode": "652D",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1100,
+        "problemCode": "825Q",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1500,
+        "problemCode": "849O",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2800,
+        "problemCode": "708P",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1500,
+        "problemCode": "369U",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-09-10",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2900,
+        "problemCode": "998Z",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3500,
+        "problemCode": "171R",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-09-11",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 1600,
+        "problemCode": "888P",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3400,
+        "problemCode": "334Y",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2900,
+        "problemCode": "167P",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 900,
+        "problemCode": "300P",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2000,
+        "problemCode": "504I",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2800,
+        "problemCode": "361K",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-09-12",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 2700,
+        "problemCode": "395B",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3500,
+        "problemCode": "612K",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1400,
+        "problemCode": "594L",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1800,
+        "problemCode": "147T",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-09-13",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "664E",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 900,
+        "problemCode": "384A",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3200,
+        "problemCode": "854S",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3500,
+        "problemCode": "585D",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3500,
+        "problemCode": "843Z",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1600,
+        "problemCode": "870G",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1200,
+        "problemCode": "421S",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2800,
+        "problemCode": "735Y",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-09-14",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 3200,
+        "problemCode": "803H",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-09-15",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1900,
+        "problemCode": "316D",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3400,
+        "problemCode": "757V",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1700,
+        "problemCode": "800T",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1900,
+        "problemCode": "815R",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3200,
+        "problemCode": "896V",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-09-16",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 3300,
+        "problemCode": "842M",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-09-17",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 1200,
+        "problemCode": "791Z",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 900,
+        "problemCode": "828N",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3200,
+        "problemCode": "470W",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2500,
+        "problemCode": "893V",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1200,
+        "problemCode": "883Z",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1200,
+        "problemCode": "495M",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2600,
+        "problemCode": "936A",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-09-18",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 900,
+        "problemCode": "987T",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1500,
+        "problemCode": "505M",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3300,
+        "problemCode": "696C",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1700,
+        "problemCode": "764Z",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-09-19",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 3100,
+        "problemCode": "799E",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2800,
+        "problemCode": "375T",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1800,
+        "problemCode": "316C",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-09-20",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2500,
+        "problemCode": "239Z",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3000,
+        "problemCode": "500A",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-09-21",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 1300,
+        "problemCode": "365N",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1300,
+        "problemCode": "745Z",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1500,
+        "problemCode": "462B",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-09-22",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 1300,
+        "problemCode": "501X",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2800,
+        "problemCode": "935B",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2500,
+        "problemCode": "702E",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1800,
+        "problemCode": "148V",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-09-23",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 1400,
+        "problemCode": "865X",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3100,
+        "problemCode": "985R",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1700,
+        "problemCode": "811X",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2400,
+        "problemCode": "316C",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2400,
+        "problemCode": "456R",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2900,
+        "problemCode": "483G",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1300,
+        "problemCode": "795P",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-09-24",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 3000,
+        "problemCode": "776H",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 900,
+        "problemCode": "282M",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3000,
+        "problemCode": "191Z",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1300,
+        "problemCode": "108M",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3200,
+        "problemCode": "689H",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2800,
+        "problemCode": "932N",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-09-25",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 3000,
+        "problemCode": "646E",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1000,
+        "problemCode": "663F",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1700,
+        "problemCode": "229Q",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2500,
+        "problemCode": "811Z",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 800,
+        "problemCode": "903A",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2200,
+        "problemCode": "776K",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1300,
+        "problemCode": "606K",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-09-26",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2800,
+        "problemCode": "846G",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1900,
+        "problemCode": "435X",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-09-27",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 3200,
+        "problemCode": "963M",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1800,
+        "problemCode": "671C",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1600,
+        "problemCode": "705P",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-09-28",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 1800,
+        "problemCode": "887I",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1800,
+        "problemCode": "960K",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2600,
+        "problemCode": "210F",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1900,
+        "problemCode": "625Z",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3500,
+        "problemCode": "661C",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2200,
+        "problemCode": "317Z",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-09-29",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "540L",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1100,
+        "problemCode": "418U",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1100,
+        "problemCode": "161M",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1600,
+        "problemCode": "840O",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2300,
+        "problemCode": "650S",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1200,
+        "problemCode": "467G",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3500,
+        "problemCode": "761J",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-09-30",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 2700,
+        "problemCode": "884Z",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2000,
+        "problemCode": "911K",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2300,
+        "problemCode": "335H",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1700,
+        "problemCode": "617M",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1300,
+        "problemCode": "293L",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-10-01",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "542F",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3000,
+        "problemCode": "728Z",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1200,
+        "problemCode": "491N",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2900,
+        "problemCode": "119V",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3200,
+        "problemCode": "437S",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-10-02",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 1000,
+        "problemCode": "676T",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-10-03",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2100,
+        "problemCode": "291M",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2100,
+        "problemCode": "812F",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-10-04",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 2300,
+        "problemCode": "485B",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2600,
+        "problemCode": "544T",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2000,
+        "problemCode": "484M",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2900,
+        "problemCode": "407G",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3400,
+        "problemCode": "638S",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2100,
+        "problemCode": "378S",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1900,
+        "problemCode": "409P",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-10-05",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 3500,
+        "problemCode": "406F",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1100,
+        "problemCode": "765F",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2700,
+        "problemCode": "768O",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2800,
+        "problemCode": "242W",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-10-06",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 1100,
+        "problemCode": "681M",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1100,
+        "problemCode": "269K",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1200,
+        "problemCode": "258E",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2900,
+        "problemCode": "589Y",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3300,
+        "problemCode": "943V",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 900,
+        "problemCode": "443M",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2600,
+        "problemCode": "706T",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1100,
+        "problemCode": "834F",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-10-07",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 2300,
+        "problemCode": "908R",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-10-08",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 2100,
+        "problemCode": "323C",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1800,
+        "problemCode": "715J",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1900,
+        "problemCode": "891T",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-10-09",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 2200,
+        "problemCode": "992Q",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3300,
+        "problemCode": "654L",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1800,
+        "problemCode": "396T",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-10-10",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 3300,
+        "problemCode": "273F",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-10-11",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 1500,
+        "problemCode": "417S",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3000,
+        "problemCode": "652G",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2100,
+        "problemCode": "599M",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1500,
+        "problemCode": "803L",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-10-12",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-10-13",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 2900,
+        "problemCode": "833X",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2900,
+        "problemCode": "993X",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 900,
+        "problemCode": "644S",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2600,
+        "problemCode": "130C",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1200,
+        "problemCode": "274Z",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3300,
+        "problemCode": "250D",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3100,
+        "problemCode": "288M",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-10-14",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 1100,
+        "problemCode": "747R",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1800,
+        "problemCode": "860W",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 900,
+        "problemCode": "401E",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-10-15",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-10-16",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-10-17",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 3300,
+        "problemCode": "833T",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1400,
+        "problemCode": "765F",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2600,
+        "problemCode": "655R",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2300,
+        "problemCode": "234M",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1000,
+        "problemCode": "953E",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2700,
+        "problemCode": "211A",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-10-18",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 3000,
+        "problemCode": "790Q",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1100,
+        "problemCode": "734E",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1300,
+        "problemCode": "853H",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2600,
+        "problemCode": "780B",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-10-19",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 2700,
+        "problemCode": "849C",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1500,
+        "problemCode": "519N",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2600,
+        "problemCode": "900D",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2000,
+        "problemCode": "718N",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-10-20",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2100,
+        "problemCode": "741E",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1000,
+        "problemCode": "405S",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 1000,
+        "problemCode": "888L",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1300,
+        "problemCode": "218Z",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2300,
+        "problemCode": "667Z",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3200,
+        "problemCode": "159D",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1200,
+        "problemCode": "250K",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3200,
+        "problemCode": "674M",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2000,
+        "problemCode": "611F",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1000,
+        "problemCode": "578Y",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-10-22",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 1900,
+        "problemCode": "491L",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1900,
+        "problemCode": "704Q",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1600,
+        "problemCode": "715R",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1400,
+        "problemCode": "828Y",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2700,
+        "problemCode": "771D",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2700,
+        "problemCode": "132K",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2500,
+        "problemCode": "201W",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 800,
+        "problemCode": "586E",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-10-24",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2300,
+        "problemCode": "307S",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1100,
+        "problemCode": "807I",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-10-25",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 3400,
+        "problemCode": "501D",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3000,
+        "problemCode": "580O",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-10-26",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 1500,
+        "problemCode": "479F",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 900,
+        "problemCode": "107K",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1200,
+        "problemCode": "330F",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2900,
+        "problemCode": "265Q",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2700,
+        "problemCode": "762K",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2800,
+        "problemCode": "641B",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2000,
+        "problemCode": "204K",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-10-27",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2700,
+        "problemCode": "159W",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 900,
+        "problemCode": "720R",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-10-28",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 1400,
+        "problemCode": "322T",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-10-29",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 1400,
+        "problemCode": "706J",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 800,
+        "problemCode": "860T",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1900,
+        "problemCode": "238Q",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1200,
+        "problemCode": "255R",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-10-30",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-10-31",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 3300,
+        "problemCode": "349E",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3200,
+        "problemCode": "158Q",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2800,
+        "problemCode": "472R",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1700,
+        "problemCode": "866G",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1300,
+        "problemCode": "363M",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2600,
+        "problemCode": "924R",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1300,
+        "problemCode": "418Z",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-11-01",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 2500,
+        "problemCode": "197S",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2200,
+        "problemCode": "460C",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2500,
+        "problemCode": "578J",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 900,
+        "problemCode": "803B",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 800,
+        "problemCode": "895P",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-11-02",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1300,
+        "problemCode": "881C",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1100,
+        "problemCode": "656E",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2900,
+        "problemCode": "223I",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2800,
+        "problemCode": "552N",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2200,
+        "problemCode": "279X",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-11-03",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 2800,
+        "problemCode": "908T",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-11-04",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2600,
+        "problemCode": "668G",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 900,
+        "problemCode": "289A",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-11-05",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 900,
+        "problemCode": "420Y",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-11-06",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 3300,
+        "problemCode": "320K",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1400,
+        "problemCode": "518I",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-07",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 3300,
+        "problemCode": "663R",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1200,
+        "problemCode": "848K",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 2900,
+        "problemCode": "105T",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1100,
+        "problemCode": "441S",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1500,
+        "problemCode": "453F",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1400,
+        "problemCode": "955A",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3000,
+        "problemCode": "901I",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-11-09",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1500,
+        "problemCode": "324H",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1200,
+        "problemCode": "349J",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2900,
+        "problemCode": "342P",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1100,
+        "problemCode": "392C",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2000,
+        "problemCode": "675Q",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-11-10",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 2900,
+        "problemCode": "643U",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2100,
+        "problemCode": "206W",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3400,
+        "problemCode": "177L",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-11",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "881K",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2200,
+        "problemCode": "366C",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2300,
+        "problemCode": "888T",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 900,
+        "problemCode": "999B",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2400,
+        "problemCode": "338K",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2200,
+        "problemCode": "553P",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3100,
+        "problemCode": "664S",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-11-12",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2500,
+        "problemCode": "453I",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1600,
+        "problemCode": "362L",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-13",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 1700,
+        "problemCode": "777Y",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3100,
+        "problemCode": "208T",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-14",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 1400,
+        "problemCode": "898K",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 800,
+        "problemCode": "515Z",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2700,
+        "problemCode": "134S",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-11-15",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 1200,
+        "problemCode": "729M",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2100,
+        "problemCode": "464W",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1800,
+        "problemCode": "863Z",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3300,
+        "problemCode": "356O",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3100,
+        "problemCode": "886Z",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2200,
+        "problemCode": "218H",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1300,
+        "problemCode": "794Y",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1400,
+        "problemCode": "576B",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-11-16",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 1100,
+        "problemCode": "977F",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 900,
+        "problemCode": "560B",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3000,
+        "problemCode": "645W",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2300,
+        "problemCode": "871B",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3200,
+        "problemCode": "520P",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2300,
+        "problemCode": "471B",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2700,
+        "problemCode": "515B",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-11-17",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "731Y",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3300,
+        "problemCode": "174E",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2900,
+        "problemCode": "126F",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2900,
+        "problemCode": "165U",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 800,
+        "problemCode": "414X",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2700,
+        "problemCode": "157V",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-18",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 1500,
+        "problemCode": "333L",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3400,
+        "problemCode": "998L",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1300,
+        "problemCode": "253K",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2200,
+        "problemCode": "833J",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2300,
+        "problemCode": "393S",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1700,
+        "problemCode": "701F",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2200,
+        "problemCode": "187Q",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2600,
+        "problemCode": "833H",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-11-19",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 1000,
+        "problemCode": "807O",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2700,
+        "problemCode": "755N",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1900,
+        "problemCode": "760U",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3400,
+        "problemCode": "575D",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-11-20",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 3300,
+        "problemCode": "391M",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 800,
+        "problemCode": "880F",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3300,
+        "problemCode": "997B",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3300,
+        "problemCode": "882G",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3500,
+        "problemCode": "969H",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1600,
+        "problemCode": "499X",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1400,
+        "problemCode": "887F",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 2400,
+        "problemCode": "981I",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-11-21",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 900,
+        "problemCode": "980L",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2200,
+        "problemCode": "369R",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-11-22",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 2800,
+        "problemCode": "543Q",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-11-23",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2700,
+        "problemCode": "586A",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1000,
+        "problemCode": "450Y",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-11-24",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 1400,
+        "problemCode": "952Q",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-11-25",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 1500,
+        "problemCode": "225W",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2200,
+        "problemCode": "193A",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2900,
+        "problemCode": "302Y",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1100,
+        "problemCode": "813M",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2500,
+        "problemCode": "898B",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3500,
+        "problemCode": "718O",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2500,
+        "problemCode": "628G",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1500,
+        "problemCode": "548K",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-11-26",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 3000,
+        "problemCode": "274A",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2000,
+        "problemCode": "577G",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-11-27",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 900,
+        "problemCode": "256Q",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2800,
+        "problemCode": "369W",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3100,
+        "problemCode": "876P",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3500,
+        "problemCode": "884X",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2200,
+        "problemCode": "495Z",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2800,
+        "problemCode": "997U",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-11-28",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2600,
+        "problemCode": "970Z",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1400,
+        "problemCode": "216J",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-11-29",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1800,
+        "problemCode": "398J",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3200,
+        "problemCode": "289D",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1100,
+        "problemCode": "175V",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2700,
+        "problemCode": "296P",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1000,
+        "problemCode": "511C",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-11-30",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 1300,
+        "problemCode": "295R",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2200,
+        "problemCode": "952X",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1200,
+        "problemCode": "453J",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-12-01",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 2700,
+        "problemCode": "504L",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1500,
+        "problemCode": "109G",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 2700,
+        "problemCode": "873D",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2100,
+        "problemCode": "762C",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3500,
+        "problemCode": "602V",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2400,
+        "problemCode": "319Q",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-12-02",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 2900,
+        "problemCode": "121R",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 800,
+        "problemCode": "266S",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1100,
+        "problemCode": "927Y",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 900,
+        "problemCode": "955A",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2700,
+        "problemCode": "936W",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1900,
+        "problemCode": "953K",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1300,
+        "problemCode": "989P",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-12-03",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 2600,
+        "problemCode": "832F",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3200,
+        "problemCode": "423K",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3400,
+        "problemCode": "652D",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-12-04",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 2600,
+        "problemCode": "186F",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-12-05",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 3100,
+        "problemCode": "988R",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-12-06",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 2500,
+        "problemCode": "195I",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1500,
+        "problemCode": "618B",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2400,
+        "problemCode": "900T",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-12-07",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 3300,
+        "problemCode": "791L",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2100,
+        "problemCode": "202L",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3500,
+        "problemCode": "779Z",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3400,
+        "problemCode": "720G",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-12-08",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 1800,
+        "problemCode": "128I",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1400,
+        "problemCode": "489U",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1200,
+        "problemCode": "717E",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3100,
+        "problemCode": "228V",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-12-09",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 1400,
+        "problemCode": "402L",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1600,
+        "problemCode": "814U",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-12-10",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 3300,
+        "problemCode": "597N",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3400,
+        "problemCode": "394N",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2200,
+        "problemCode": "921Q",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2300,
+        "problemCode": "970Y",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1300,
+        "problemCode": "959X",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-12-11",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 3300,
+        "problemCode": "152D",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1700,
+        "problemCode": "972K",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1700,
+        "problemCode": "269Z",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2200,
+        "problemCode": "793G",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-12-12",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 1900,
+        "problemCode": "428U",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-12-13",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 3400,
+        "problemCode": "125L",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1600,
+        "problemCode": "709A",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2200,
+        "problemCode": "805L",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3300,
+        "problemCode": "515L",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1800,
+        "problemCode": "228Y",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2300,
+        "problemCode": "204S",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-12-14",
+    "numberOfProblemsSolved": 3,
+    "problemsSolved": [
+      {
+        "rating": 2600,
+        "problemCode": "328V",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1900,
+        "problemCode": "782U",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3300,
+        "problemCode": "572H",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-12-15",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 2500,
+        "problemCode": "127Q",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 900,
+        "problemCode": "747E",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-12-16",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 1900,
+        "problemCode": "404Y",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1800,
+        "problemCode": "939L",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2700,
+        "problemCode": "754D",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1200,
+        "problemCode": "329P",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3500,
+        "problemCode": "929W",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1400,
+        "problemCode": "957N",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3300,
+        "problemCode": "392N",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-12-17",
+    "numberOfProblemsSolved": 2,
+    "problemsSolved": [
+      {
+        "rating": 3400,
+        "problemCode": "618G",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1700,
+        "problemCode": "669B",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-12-18",
+    "numberOfProblemsSolved": 5,
+    "problemsSolved": [
+      {
+        "rating": 1300,
+        "problemCode": "519A",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1900,
+        "problemCode": "412X",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3300,
+        "problemCode": "969X",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1500,
+        "problemCode": "590J",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1400,
+        "problemCode": "241P",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-12-19",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 3000,
+        "problemCode": "585Y",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-12-20",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 1000,
+        "problemCode": "835J",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-12-21",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-12-22",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 1100,
+        "problemCode": "813Y",
+        "numberOfAttempts": 5
+      }
+    ]
+  },
+  {
+    "date": "2025-12-23",
+    "numberOfProblemsSolved": 8,
+    "problemsSolved": [
+      {
+        "rating": 800,
+        "problemCode": "541Y",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3500,
+        "problemCode": "305X",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 3500,
+        "problemCode": "788V",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1100,
+        "problemCode": "909Z",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2800,
+        "problemCode": "648N",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1900,
+        "problemCode": "640C",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 3200,
+        "problemCode": "926N",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 2000,
+        "problemCode": "464I",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-12-24",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-12-25",
+    "numberOfProblemsSolved": 1,
+    "problemsSolved": [
+      {
+        "rating": 1900,
+        "problemCode": "664R",
+        "numberOfAttempts": 2
+      }
+    ]
+  },
+  {
+    "date": "2025-12-26",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 2400,
+        "problemCode": "856V",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1200,
+        "problemCode": "754B",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 3300,
+        "problemCode": "483B",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2900,
+        "problemCode": "549P",
+        "numberOfAttempts": 3
+      }
+    ]
+  },
+  {
+    "date": "2025-12-27",
+    "numberOfProblemsSolved": 4,
+    "problemsSolved": [
+      {
+        "rating": 1800,
+        "problemCode": "777C",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1500,
+        "problemCode": "415I",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 3100,
+        "problemCode": "408F",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1700,
+        "problemCode": "180B",
+        "numberOfAttempts": 1
+      }
+    ]
+  },
+  {
+    "date": "2025-12-28",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-12-29",
+    "numberOfProblemsSolved": 0,
+    "problemsSolved": []
+  },
+  {
+    "date": "2025-12-30",
+    "numberOfProblemsSolved": 7,
+    "problemsSolved": [
+      {
+        "rating": 1900,
+        "problemCode": "994B",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 3200,
+        "problemCode": "879L",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 900,
+        "problemCode": "649I",
+        "numberOfAttempts": 5
+      },
+      {
+        "rating": 1700,
+        "problemCode": "963T",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 2900,
+        "problemCode": "453T",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 1400,
+        "problemCode": "672E",
+        "numberOfAttempts": 4
+      },
+      {
+        "rating": 1300,
+        "problemCode": "518I",
+        "numberOfAttempts": 4
+      }
+    ]
+  },
+  {
+    "date": "2025-12-31",
+    "numberOfProblemsSolved": 6,
+    "problemsSolved": [
+      {
+        "rating": 2600,
+        "problemCode": "842B",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1600,
+        "problemCode": "881V",
+        "numberOfAttempts": 3
+      },
+      {
+        "rating": 1200,
+        "problemCode": "260A",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1400,
+        "problemCode": "505E",
+        "numberOfAttempts": 2
+      },
+      {
+        "rating": 2700,
+        "problemCode": "843E",
+        "numberOfAttempts": 1
+      },
+      {
+        "rating": 1000,
+        "problemCode": "464I",
+        "numberOfAttempts": 3
+      }
+    ]
+  }
+]
