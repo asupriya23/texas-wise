@@ -1,0 +1,5 @@
+@import "@fullcalendar/daygrid/main.css";
+@import "@fullcalendar/timegrid/main.css";
+@import url("https://cdn.jsdelivr.net/npm/@fullcalendar/core@6.1.8/index.global.min.css");
+@import url("https://cdn.jsdelivr.net/npm/@fullcalendar/daygrid@6.1.8/index.global.min.css");
+@import url("https://cdn.jsdelivr.net/npm/@fullcalendar/timegrid@6.1.8/index.global.min.css");
