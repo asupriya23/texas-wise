@@ -124,20 +124,5 @@ npm run dev
 - ENOTFOUND errors when connecting to MongoDB usually mean the cluster host in `MONGODB_URI` is incorrect or DNS/network is blocking access. Verify the cluster host name and your Atlas network/IP allowlist.
 - If you get email authentication errors, consider creating an app password (for Gmail + 2FA) and ensure the EMAIL_SERVICE/EMAIL_USER/EMAIL_PASSWORD are correct.
 
-## Contributing
 
-- Create issues or PRs for bug fixes or features.
-- Keep secrets out of commits. Use `.env` or the hosting platform's secret manager.
 
-## License
-
-Add a license of your choice (MIT, Apache-2.0, etc.) by adding a `LICENSE` file.
-
----
-
-If you want, I can:
-- Add a `README.md` to the frontend and backend subfolders with more granular run scripts.
-- Add a simple `package.json` start script in the backend (e.g., `"start": "node server.js"`).
-- Replace hard-coded Supabase keys with environment variable usage in `src/lib/supabase.ts` and show how to use Vite env vars.
-
-Tell me which of those you'd like and I'll make the changes.
